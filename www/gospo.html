@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css" />
+  <meta charset="UTF-8">
+  <title>Akcja Aplikacja</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.2/css/bootstrap.min.css'>
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css'>
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'>
+<link href="https://fonts.googleapis.com/css?family=EB+Garamond&amp;subset=latin-ext" rel="stylesheet">
+     <script src="jquery-3.3.1.js"></script>
+<style>
+body {
+background: black;
+color: white;
+text-align: justify;
+font-family: EB Garamond, serif;
+}
+
+button{
+color: red;
+}
+
+.zoom {
+transition: transform .2s
+}
+
+.zoom:hover {
+transform: scale(1.5);
+}
+</style>
+
+	  </head>
+<body>
+<div class="container-fluid">
+<div class="row">  
+<h4 class="animated fadeIn"><i class="fa fa-random animated bounceIn"></i> Akcja Aplikacja</h4><br>  
+<input id="button1" style="background: red;" class="btn btn-danger animated fadeInRight zoom" type="button" value="Losuj" onclick="losuj()"></button><br>
+</div>
+  <h6><i class="fa fa-tasks animated fadeInRight"></i> Pytanie 1:</h6><p id="los1"></p>
+<h6><i class="fa fa-tasks animated fadeInRight"></i> Pytanie 2:</h6><p id="los2"></p>
+<h6><i class="fa fa-tasks animated fadeInRight"></i> Pytanie 3:</h6><p id="los3"></p>
+</div>
+<script type="text/javascript">
+function losuj() {
+  var ladowanie = '<i class="fa fa-spinner"></i> Ładowanie danych...';
+  
+$.getJSON(
+  "gospodarcze2018.json",
+  function(data) {
+    // Success! Do stuff with data.
+	var pytanie1 = Math.floor(Math.random() * (258 - 1)) + 1;
+	var pytanie2 = Math.floor(Math.random() * (258 - 1)) + 1;
+	var pytanie3 = Math.floor(Math.random() * (258 - 1)) + 1;
+
+	var los1 = data.gospodarcze2018[pytanie1].pytanie;
+document.getElementById("los1").innerHTML = los1; 
+	var los2 = data.gospodarcze2018[pytanie2].pytanie;
+document.getElementById("los2").innerHTML = los2;
+	var los3 = data.gospodarcze2018[pytanie3].pytanie;
+document.getElementById("los3").innerHTML = los3;  
+  }  
+)};
+</script>
+
+  <h6>Wpisz numer pytania.</h6>
+<input class="animated fadeInUp" id="input" type="text" width=100% value=""></input>
+<input id="button" style="background: red;" class="btn btn-danger animated fadeInRight" type="button" value="Pokaż pytanie" onclick="zwrockrs()"><br>
+</div>
+<div class="row">
+<div class="col-md-6 col-lg-6">
+<h6><b>Wynik:</b></h6>
+<h6><i class="fa fa-tasks animated fadeInRight"></i> Treść pytania:</h6><p id="trescpytania"></p>
+<p><i>Źródło: Krajowa Rada Radców Prawnych</i></p>
+	 </div> 
+	 
+</div>
+
+<script>
+// Get the input field
+var input = document.getElementById("input");
+
+// Execute a function when the user releases a key on the keyboard
+input.addEventListener("keyup", function(event) {
+  // Cancel the default action, if needed
+  event.preventDefault();
+  // Number 13 is the "Enter" key on the keyboard
+  if (event.keyCode === 13) {
+    // Trigger the button element with a click
+    document.getElementById("button").click();
+  }
+}); 
+</script>
+
+<script type="text/javascript">
+function zwrockrs() {
+  var podmiot = document.getElementById('input').value;
+  var ladowanie = '<i class="fa fa-spinner"></i> Ładowanie danych...';
+  document.getElementById("trescpytania").innerHTML = ladowanie; 
+$.getJSON(
+  "gospodarcze2018.json",
+  function(data) {
+    // Success! Do stuff with data.
+	console.log(data);
+	var wpisanynumerwalidacja = Number(document.getElementById("input").value);
+	if (wpisanynumerwalidacja < 0 || wpisanynumerwalidacja == 0 || wpisanynumerwalidacja > 258) {
+	document.getElementById("trescpytania").innerHTML = "Wystąpił błąd. Wpisz właściwy numer pytania w zakresie 1-258.";
+	} else {
+	var wpisanynumer = Number(document.getElementById("input").value) - 1;
+	var trescpytania = data.gospodarcze2018[wpisanynumer].pytanie;
+document.getElementById("trescpytania").innerHTML = trescpytania; 
+}
+  }  
+)};
+</script>
+</body>
+
