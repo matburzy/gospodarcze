@@ -11,6 +11,7 @@
       * Disables use of inline scripts in order to mitigate risk of XSS vulnerabilities. To change this:
           * Enable inline JS: add 'unsafe-inline' to default-src
   -->
+  <meta name="theme-color" content="#FF9800" />
   <meta http-equiv="Content-Security-Policy" content="default-src * 'self' 'unsafe-inline' 'unsafe-eval' data: gap: content:">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui, viewport-fit=cover">
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -50,12 +51,13 @@ color: red;
           </div>
           <div class="page-content">
             <div class="block">
-Polityka prywatności <br>
+<i class="customicon-privacy"></i>Polityka prywatności <br>
 Aplikacja nie przetwarza żadnych danych osobowych. Nie wysyła żadnych danych. Dane osobowe, takie jak: przeglądane strony internetowe, lokalizacja, preferencje
 są zbierane automatycznie w celu wyświetlania spersonalizowanych reklam. Autor nie ma wpływu na konkretnie wyświetlaną reklamę i nie posiada danych, jakim użytkownikom wyświetlają się konkretne reklamy.
 W razie pytań, proszę kontaktować się z Google AdMob. Firma zbiera dane na podstawie danych, które im sami dostarczymy. <br>
-Polityka prywatności AdMob jest dostępna pod adresem: https://policies.google.com/privacy
-              Autor: Mateusz Burzyński. Jeżeli zauważysz błąd, skontaktuj się ze mną pod adresem: matburzy@gmail.com.<br><br> Autorem pytań egzaminacyjnych na kolokwia ustne jest Krajowa Izba Radców Prawnych.<br> Źródłem aktów prawnych dostępnych w programie jest Internetowy System Aktów Prawnych (ISAP).<br> Wersja aplikacji 1.0.4.<br><br>
+Polityka prywatności AdMob jest dostępna pod adresem: https://policies.google.com/privacy <br>
+W programie wykorzystano ikony ze strony flaticon.com autorstwa: turkkub, Eucalyp, Freepik.
+             <i class="customicon-copyright"></i> Autor: Mateusz Burzyński. Jeżeli zauważysz błąd, skontaktuj się ze mną pod adresem: matburzy@gmail.com.<br><br> Autorem pytań egzaminacyjnych na kolokwia ustne jest Krajowa Izba Radców Prawnych.<br> Źródłem aktów prawnych dostępnych w programie jest Internetowy System Aktów Prawnych (ISAP).<br> Wersja aplikacji 1.0.4.<br><br>
 			Zmiany w stosunku do wersji 1.0.4:<br>
 			- aplikacja od maja 2019 roku jest całkowicie darmowa, z reklamami,<br>
     - dodano pytania z 2019 roku</div>
@@ -118,7 +120,7 @@ $('#los3').removeClass();
               </a>
             </div>
 
-            <div class="title sliding"><i class="f7-icons">info</i> Gospodarcze - Pytania</div>
+            <div class="title sliding"><i class="customicon-studying"></i> Gospodarcze - Pytania</div>
 
           </div>
         </div>
@@ -210,7 +212,7 @@ window.location.reload(true);
 			  <div class="block-title">Losuj zestaw trzech pytań</div>
                 <a href="/about/" class="item-content item-link">
                   <div class="item-inner">
-          <div class="item-title"><i class="f7-icons">bolt_fill</i> Prawo Gospodarcze - Losowarka</div>
+          <div class="item-title"><i class="customicon-smartphone"></i> Losuj pytania</div>
                   </div>
                 </a>
               </li>
@@ -220,7 +222,7 @@ window.location.reload(true);
 			  <div class="block-title">Zobacz konkretne pytanie</div>
                 <a href="/enter/" class="item-content item-link">
                   <div class="item-inner">
-          <div class="item-title"><i class="f7-icons">list</i> Prawo Gospodarcze</div>
+          <div class="item-title"><i class="customicon-pick"></i> Zobacz pytanie po numerze</div>
                   </div>
                 </a>
               </li>
@@ -232,7 +234,7 @@ window.location.reload(true);
 			  <div class="block-title">Pokaż wszystkie pytania</div>
                 <a href="/all/" class="item-content item-link">
                   <div class="item-inner">
-          <div class="item-title"><i class="f7-icons">list_fill</i> Prawo Gospodarcze</div>
+          <div class="item-title"><i class="customicon-all"></i> Pokaż wszystkie pytania</div>
                   </div>
                 </a>
               </li>
@@ -244,7 +246,7 @@ window.location.reload(true);
 			  <div class="block-title">Przeczytaj akty prawne wymagane na egzamin</div>
                 <a href="/aktyprawne/" class="item-content item-link">
                   <div class="item-inner">
-          <div class="item-title"><i class="f7-icons">at</i> Przejrzyj akty prawne</div>
+          <div class="item-title"><i class="customicon-studying"></i>  Przejrzyj akty prawne</div>
                   </div>
                 </a>
               </li>
@@ -252,89 +254,91 @@ window.location.reload(true);
             </ul>
 
 
-		<!--	 <ul>
-		<li>
-			  <div class="block-title">Ustawienia wyglądu pytań</div>
-                <a href="/settings/" class="item-content item-link">
-                  <div class="item-inner">
-          <div class="item-title"><i class="f7-icons">settings</i> Ustawienia</div>
-                  </div>
-                </a>
-              </li>
-
-            </ul>
-//Funkcja do skończenia
-			-->
 
 		<script type="text/javascript">
 		function uswoboda() {
 
-cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/cb83ae84-ec38-11e8-8f58-0cc47a792c0a_id_cb83ae84-ec38-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
+//cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/cb83ae84-ec38-11e8-8f58-0cc47a792c0a_id_cb83ae84-ec38-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
+window.location.href = "https://aotesty.hmcloud.pl/uswoboda/cb83ae84-ec38-11e8-8f58-0cc47a792c0a_id_cb83ae84-ec38-11e8-8f58-0cc47a792c0a.html";
 		}
 				function usm() {
-cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/ab0d6dd8-ed7e-11e8-8f58-0cc47a792c0a_id_ab0d6dd8-ed7e-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
+//cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/ab0d6dd8-ed7e-11e8-8f58-0cc47a792c0a_id_ab0d6dd8-ed7e-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
+window.location.href = "https://aotesty.hmcloud.pl/uswoboda/ab0d6dd8-ed7e-11e8-8f58-0cc47a792c0a_id_ab0d6dd8-ed7e-11e8-8f58-0cc47a792c0a.html";
 		}
 						function uokik() {
-cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/46e2345a-ed7f-11e8-8f58-0cc47a792c0a_id_46e2345a-ed7f-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
+//cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/46e2345a-ed7f-11e8-8f58-0cc47a792c0a_id_46e2345a-ed7f-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
+window.location.href = "https://aotesty.hmcloud.pl/uswoboda/46e2345a-ed7f-11e8-8f58-0cc47a792c0a_id_46e2345a-ed7f-11e8-8f58-0cc47a792c0a.html";
 		}
 								function ubezp() {
-cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/ddef928e-ed7f-11e8-8f58-0cc47a792c0a_id_ddef928e-ed7f-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
+//cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/ddef928e-ed7f-11e8-8f58-0cc47a792c0a_id_ddef928e-ed7f-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
+window.location.href = "https://aotesty.hmcloud.pl/uswoboda/ddef928e-ed7f-11e8-8f58-0cc47a792c0a_id_ddef928e-ed7f-11e8-8f58-0cc47a792c0a.html";
 		}
 			function uodo() {
-cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/7647e0b0-ed83-11e8-8f58-0cc47a792c0a_id_7647e0b0-ed83-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
+//cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/7647e0b0-ed83-11e8-8f58-0cc47a792c0a_id_7647e0b0-ed83-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
+window.location.href = "https://aotesty.hmcloud.pl/uswoboda/7647e0b0-ed83-11e8-8f58-0cc47a792c0a_id_7647e0b0-ed83-11e8-8f58-0cc47a792c0a.html";
 		}
 					function rodo() {
-cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/e077754a-ed83-11e8-8f58-0cc47a792c0a_id_e077754a-ed83-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
+//cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/e077754a-ed83-11e8-8f58-0cc47a792c0a_id_e077754a-ed83-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
+window.location.href = "https://aotesty.hmcloud.pl/uswoboda/e077754a-ed83-11e8-8f58-0cc47a792c0a_id_e077754a-ed83-11e8-8f58-0cc47a792c0a.html";
 		}
 		function zamowienia() {
-cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/4afcc316-ed84-11e8-8f58-0cc47a792c0a_id_4afcc316-ed84-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
+//cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/4afcc316-ed84-11e8-8f58-0cc47a792c0a_id_4afcc316-ed84-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
+window.location.href = "https://aotesty.hmcloud.pl/uswoboda/4afcc316-ed84-11e8-8f58-0cc47a792c0a_id_4afcc316-ed84-11e8-8f58-0cc47a792c0a.html";
 		}
 				function stowarzyszenia() {
-cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/500cd4f8-ed85-11e8-8f58-0cc47a792c0a_id_500cd4f8-ed85-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
+//cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/500cd4f8-ed85-11e8-8f58-0cc47a792c0a_id_500cd4f8-ed85-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
+window.location.href = "https://aotesty.hmcloud.pl/uswoboda/500cd4f8-ed85-11e8-8f58-0cc47a792c0a_id_500cd4f8-ed85-11e8-8f58-0cc47a792c0a.html";
 		}
 						function fundacje() {
-cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/a56b2cf6-ed85-11e8-8f58-0cc47a792c0a_id_a56b2cf6-ed85-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
+//cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/a56b2cf6-ed85-11e8-8f58-0cc47a792c0a_id_a56b2cf6-ed85-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
+window.location.href = "https://aotesty.hmcloud.pl/uswoboda/a56b2cf6-ed85-11e8-8f58-0cc47a792c0a_id_a56b2cf6-ed85-11e8-8f58-0cc47a792c0a.html";
 		}
 								function zastaw() {
-cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/0421c3c2-ed86-11e8-8f58-0cc47a792c0a_id_0421c3c2-ed86-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
+//cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/0421c3c2-ed86-11e8-8f58-0cc47a792c0a_id_0421c3c2-ed86-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
+window.location.href = "https://aotesty.hmcloud.pl/uswoboda/0421c3c2-ed86-11e8-8f58-0cc47a792c0a_id_0421c3c2-ed86-11e8-8f58-0cc47a792c0a.html";
 		}
 		function przewozowe() {
-cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/72c0f2b2-ed86-11e8-8f58-0cc47a792c0a_id_72c0f2b2-ed86-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
+//cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/72c0f2b2-ed86-11e8-8f58-0cc47a792c0a_id_72c0f2b2-ed86-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
+window.location.href = "https://aotesty.hmcloud.pl/uswoboda/72c0f2b2-ed86-11e8-8f58-0cc47a792c0a_id_72c0f2b2-ed86-11e8-8f58-0cc47a792c0a.html";
 		}
 				function spoldzielcze() {
-cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/b2dcee32-ed86-11e8-8f58-0cc47a792c0a_id_b2dcee32-ed86-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
+//cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/b2dcee32-ed86-11e8-8f58-0cc47a792c0a_id_b2dcee32-ed86-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
+window.location.href = "https://aotesty.hmcloud.pl/uswoboda/b2dcee32-ed86-11e8-8f58-0cc47a792c0a_id_b2dcee32-ed86-11e8-8f58-0cc47a792c0a.html";
 		}
 						function ksh() {
-cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/3024ff24-ed87-11e8-8f58-0cc47a792c0a_id_3024ff24-ed87-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
+//cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/3024ff24-ed87-11e8-8f58-0cc47a792c0a_id_3024ff24-ed87-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
+window.location.href = "https://aotesty.hmcloud.pl/uswoboda/3024ff24-ed87-11e8-8f58-0cc47a792c0a_id_3024ff24-ed87-11e8-8f58-0cc47a792c0a.html";
 		}
 								function krs() {
-cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/90020a8a-ed88-11e8-8f58-0cc47a792c0a_id_90020a8a-ed88-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
+//cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/90020a8a-ed88-11e8-8f58-0cc47a792c0a_id_90020a8a-ed88-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
+window.location.href = "https://aotesty.hmcloud.pl/uswoboda/90020a8a-ed88-11e8-8f58-0cc47a792c0a_id_90020a8a-ed88-11e8-8f58-0cc47a792c0a.html";
 		}
 										function upadlosciowe() {
-cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/07f33668-ed89-11e8-8f58-0cc47a792c0a_id_07f33668-ed89-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
+//cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/07f33668-ed89-11e8-8f58-0cc47a792c0a_id_07f33668-ed89-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
+window.location.href = "https://aotesty.hmcloud.pl/uswoboda/07f33668-ed89-11e8-8f58-0cc47a792c0a_id_07f33668-ed89-11e8-8f58-0cc47a792c0a.html";
 		}
 		function restrukturyzacyjne() {
-cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/84da202e-ed89-11e8-8f58-0cc47a792c0a_id_84da202e-ed89-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
+//cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/84da202e-ed89-11e8-8f58-0cc47a792c0a_id_84da202e-ed89-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
+window.location.href = "https://aotesty.hmcloud.pl/uswoboda/84da202e-ed89-11e8-8f58-0cc47a792c0a_id_84da202e-ed89-11e8-8f58-0cc47a792c0a.html";
 		}
 		function autorskie() {
-cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/70b79094-ed8a-11e8-8f58-0cc47a792c0a_id_70b79094-ed8a-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
+//cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/84da202e-ed89-11e8-8f58-0cc47a792c0a_id_84da202e-ed89-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
+cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/84da202e-ed89-11e8-8f58-0cc47a792c0a_id_84da202e-ed89-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
 		}
 		function przemyslowe() {
+//cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/e7aeddce-ed8a-11e8-8f58-0cc47a792c0a_id_e7aeddce-ed8a-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
 cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/e7aeddce-ed8a-11e8-8f58-0cc47a792c0a_id_e7aeddce-ed8a-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
 		}
 		function speuro() {
+//cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/ce0bc4f8-ed8b-11e8-8f58-0cc47a792c0a_id_ce0bc4f8-ed8b-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
 cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/ce0bc4f8-ed8b-11e8-8f58-0cc47a792c0a_id_ce0bc4f8-ed8b-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
 		}
 		function elektro() {
+//cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/2d46e5d8-ed8c-11e8-8f58-0cc47a792c0a_id_2d46e5d8-ed8c-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
 cordova.InAppBrowser.open('https://aotesty.hmcloud.pl/uswoboda/2d46e5d8-ed8c-11e8-8f58-0cc47a792c0a_id_2d46e5d8-ed8c-11e8-8f58-0cc47a792c0a.html', '_blank', 'location=no');
 		}
 		</script>
-
           </div>
-
-
-
-
         </div>
       </div>
     </div>
