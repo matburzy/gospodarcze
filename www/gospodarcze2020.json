@@ -1,0 +1,996 @@
+{
+  "gospodarcze2019": [
+ {
+   "id": 1,
+   "pytanie": "1. Proszę wyjaśnić swojemu klientowi, co to jest działalność ubezpieczeniowa oraz czy istnieją ograniczenia dotyczące działalności, jaką może prowadzić zakład ubezpieczeń. Proszę także wskazać swojemu klientowi przykłady czynności ubezpieczeniowych, zgodnie z ustawą o działalności ubezpieczeniowej i reasekuracyjnej."
+ },
+ {
+   "id": 2,
+   "pytanie": "2. Proszę wyjaśnić swojemu klientowi pojęcie „outsourcingu” w ustawie o działalności ubezpieczeniowej i reasekuracyjnej oraz udzielić informacji prawnej na temat podstawowych zasad i ograniczeń w zakresie outsourcingu w działalności ubezpieczeniowej."
+ },
+ {
+   "id": 3,
+   "pytanie": "3. Proszę przedstawić swojemu klientowi oraz krótko scharakteryzować rodzaje ubezpieczeń, określone w przepisach Kodeksu cywilnego oraz w załączniku do ustawy o działalności ubezpieczeniowej i reasekuracyjnej."
+ },
+ {
+   "id": 4,
+   "pytanie": "4. Proszę udzielić swojemu klientowi informacji prawnej na temat podstawowych zasad i form prowadzenia działalności ubezpieczeniowej na terytorium Polski przez krajowy zakład ubezpieczeń, a także wskazać uwarunkowania prawne rozpoczęcia działalności ubezpieczeniowej przez krajowy zakład ubezpieczeń."
+ },
+ {
+   "id": 5,
+   "pytanie": "5. Proszę wymienić i scharakteryzować formy prawne prowadzenia działalności ubezpieczeniowej na terytorium Polski przez krajowe i zagraniczne zakłady ubezpieczeń oraz wskazać podstawowe zasady rozpoczęcia takiej działalności. "
+ },
+ {
+   "id": 6,
+   "pytanie": "6. Proszę przedstawić swojemu klientowi, jakie ma obowiązki zakład ubezpieczeń po otrzymaniu zawiadomienia o wystąpieniu zdarzenia losowego objętego ochroną ubezpieczeniową oraz udzielić mu informacji o  prawnej na temat podstawowych zasad dotyczące tzw. postępowania likwidacyjnego, w zakresie określonym ustawą działalności ubezpieczeniowej i reasekuracyjnej."
+ },
+ {
+   "id": 7,
+   "pytanie": "7. Adam S. – agent ubezpieczeniowy wykonujący czynności agencyjne na rzecz jednego zakładu ubezpieczeń, podczas rozmowy z Janem P. zawierającym za pośrednictwem tego agenta umowę ubezpieczenia AC swojego samochodu osobowego, przedstawił Janowi P. ofertę zawarcia innej umowy z tymże ubezpieczycielem, dotyczącej bardzo korzystnej lokaty środków pieniężnych. Jan P. zainteresował się tą ofertą i za namową agenta wpłacił mu 10.000,00 złotych. Fakt wpłaty został udokumentowany pokwitowaniem wypisanym na druku firmowym ubezpieczyciela, które to pokwitowanie zostało wręczone Janowi P. Po pewnym czasie okazało się, że Adam S. przywłaszczył sobie te pieniądze. Proszę przedstawić swoją ocenę odpowiedzialności cywilnej Adama S. oraz ubezpieczyciela, którego Adam S. był agentem, w związku z pobraniem od Jana P. kwoty 10 tys. zł."
+ },
+ {
+   "id": 8,
+   "pytanie": "8. Proszę wyjaśnić swojemu klientowi, na czym polega tajemnica ubezpieczeniowa i jaki jest jej zakres oraz podać przykładowe wyjątki."
+ },
+ {
+   "id": 9,
+   "pytanie": "9. Umowa ubezpieczenia jako umowa adhezyjna. Proszę określić charakter ogólnych warunków ubezpieczenia i ich podstawowe elementy. "
+ },
+ {
+   "id": 10,
+   "pytanie": "10. Proszę udzielić swojemu klientowi informacji prawnej – kto, kiedy, w jakim terminie oraz w jaki sposób może odstąpić od umowy ubezpieczenia, a także wyjaśnić charakter tego uprawnienia. "
+ },
+ {
+   "id": 11,
+   "pytanie": "11. Proszę scharakteryzować swojemu klientowi podstawowe dokumenty związane z zawarciem umowy ubezpieczenia. Proszę wyjaśnić w szczególności, jaki charakter ma polisa ubezpieczeniowa."
+ },
+ {
+   "id": 12,
+   "pytanie": "12. Proszę udzielić swojemu klientowi informacji prawnej dotyczącej zakresu oraz zasad wykonywania nadzoru nad zakładem ubezpieczeń."
+ },
+ {
+   "id": 13,
+   "pytanie": "13. Proszę wyjaśnić klientowi, w czym tkwi istota towarzystwa ubezpieczeń wzajemnych jako szczególnego, odrębnego i samodzielnego podmiotu uprawnionego do prowadzenia działalności ubezpieczeniowej, a także przedstawić swojemu klientowi zasadnicze cechy, odróżniające towarzystwo ubezpieczeń wzajemnych od spółki akcyjnej, prowadzącej działalność ubezpieczeniową. "
+ },
+ {
+   "id": 14,
+   "pytanie": "14. Proszę wyjaśnić swojemu klientowi, którym jest zagraniczny zakład ubezpieczeń z siedzibą w Unii Europejskiej jakie są warunki wykonywania działalności przez taki zakład na terenie Polski. "
+ },
+ {
+   "id": 15,
+   "pytanie": "15. Jako radca prawny zakładu ubezpieczeń proszę ocenić zasadność roszczenia zgłoszonego na kanwie przedstawionego poniżej stanu faktycznego, przy uwzględnieniu problematyki ruchu pojazdu. Maciej Wroński  zaparkował samochód VW Lupo na parkingu pod blokiem i po wyłączeniu silnika udał się do mieszkania. Po 5 minutach wrócił na parking i zauważył, że jego samochód płonie. Próba gaszenia nie powiodła się, a co więcej - na skutek pożaru VW Lupo uległ uszkodzeniu zaparkowany obok samochód Skoda, którego właścicielem jest Jan Kowalski. Okazało się, że przyczyną pożaru VW Lupo było zwarcie przewodów elektrycznych. Samochód Macieja W. był objęty ubezpieczeniem w zakresie OC w Towarzystwie Ubezpieczeniowym „X”. Jan Kowalski zwrócił się do tego ubezpieczyciela z żądaniem wypłaty odszkodowania za uszkodzenia. "
+ },
+ {
+   "id": 16,
+   "pytanie": "16. Proszę wyjaśnić swojemu klientowi, na czym polega działalność reasekuracyjna oraz przedstawić podstawowe zasady i formy prowadzenia działalności reasekuracyjnej na terytorium Polski. "
+ },
+ {
+   "id": 17,
+   "pytanie": "17. Proszę udzielić swojemu klientowi informacji prawnej, wskazującej na czym polega pośrednictwo ubezpieczeniowe i przez kogo może być wykonywane. W informacji tej proszę m.in. porównać działalność agenta i multiagenta."
+ },
+ {
+   "id": 18,
+   "pytanie": "18. Proszę wyjaśnić swojemu klientowi zasadnicze różnice pomiędzy działalnością dwóch rodzajów pośredników ubezpieczeniowych: agenta i brokera."
+ },
+ {
+   "id": 19,
+   "pytanie": "19. Proszę wyjaśnić swojemu klientowi jak kształtuje się odpowiedzialność agenta prowadzącego działalność na rzecz (i) jednego i (ii) wielu zakładów ubezpieczeń, w tym samym dziale ubezpieczeń (multiagent). Proszę także wskazać, w jakich okolicznościach odpowiedzialność za agenta ponosi zakład ubezpieczeń."
+ },
+ {
+   "id": 20,
+   "pytanie": "20. Proszę wyjaśnić swojemu klientowi podstawowe zasady zawierania i wykonywania umów ubezpieczenia obowiązkowego, w szczególności z kim taką umowę może zawrzeć i w jakich okolicznościach może żądać jej zawarcia, a także jaka jest treść dokumentu potwierdzającego zawarcie takiej umowy. "
+ },
+ {
+   "id": 21,
+   "pytanie": "21. Proszę wyjaśnić swojemu klientowi, w jakich okolicznościach musi zawrzeć ubezpieczenie obowiązkowej odpowiedzialności cywilnej oraz przedstawić klientowi zasady odpowiedzialności cywilnej posiadaczy pojazdów mechanicznych za szkody powstałe w związku z ruchem tych pojazdów, przewidziane ww. ustawą."
+ },
+ {
+   "id": 22,
+   "pytanie": "22. Proszę wyjaśnić swojemu klientowi, na czym polega regres ubezpieczyciela, jakie są jego rodzaje oraz różnice między nimi."
+ },
+ {
+   "id": 23,
+   "pytanie": "23. Proszę wyjaśnić swojemu klientowi, na czym polega trójstronny stosunek brokerski przy zawieraniu umowy ubezpieczenia przez brokera ubezpieczeniowego."
+ },
+ {
+   "id": 24,
+   "pytanie": "24. Proszę wyjaśnić swojemu klientowi, na czym polega actio directa w ubezpieczeniach odpowiedzialności cywilnej."
+ },
+ {
+   "id": 25,
+   "pytanie": "25. Proszę udzielić klientowi informacji prawnej na temat środków prawnych przysługujących mu jako ubezpieczającemu w stosunku do ubezpieczyciela.  "
+ },
+ {
+   "id": 26,
+   "pytanie": "26. Proszę wyjaśnić swojemu klientowi jakie znaczenie ma podział ubezpieczeń na obowiązkowe i dobrowolne. "
+ },
+ {
+   "id": 27,
+   "pytanie": "27. Kogo ustawa o ochronie konkurencji i konsumentów uznaje za przedsiębiorcę? W jakich przypadkach dochodzi do przejęcia przez przedsiębiorcę kontroli nad innym podmiotem w rozumieniu ustawy o ochronie konkurencji i konsumentów?"
+ },
+ {
+   "id": 28,
+   "pytanie": "28. Proszę omówić pojęcie grupy kapitałowej w rozumieniu ustawy o ochronie konkurencji i konsumentów. Proszę podać trzy dowolnie skonstruowane przykłady takiej grupy obejmujące co najmniej trzy spółki prawa handlowego. Spółka A posiada 50% udziałów w spółce B oraz prawo do powoływania większości członków zarządu spółki B, ponadto spółka A posiada 51% akcji w spółce C oraz umowę, na mocy której uzyskuje uprawnienie do całości zysku spółki D. Czy spółki B, C i D wchodzą w skład grupy kapitałowej tworzonej przez spółkę A? Proszę uzasadnić odpowiedź."
+ },
+ {
+   "id": 29,
+   "pytanie": "29. Proszę wymienić cztery formy koncentracji wymienione w ustawie o ochronie konkurencji i konsumentów. Proszę podać przykłady dwóch sytuacji, w których następuję zwolnienie od obowiązku zgłoszenia zamiaru koncentracji Prezesowi Urzędu Ochrony Konkurencji i Konsumentów pomimo tego, iż przedsiębiorcy dokonali czynności prawnej, w ramach której realizuje się forma koncentracji wskazana w ustawie o ochronie konkurencji i konsumentów."
+ },
+ {
+   "id": 30,
+   "pytanie": "30. Marek Sponsor, będący przedsiębiorcą w rozumieniu ustawy - Prawo przedsiębiorców, posiada 75% udziałów spółki A, której obroty w każdym roku przekraczają 52 000 000 Euro na terytorium Polski. Spółka A jest właścicielem 90 % akcji spółki B, która od 5 lat sprzedaje swoje wyroby wyłącznie na terytorium Polski, a jej obrót w każdym roku obrotowym przekroczył 10 000 000 Euro. Marek Sponsor jest zainteresowany zakupem od spółki A 50,5% akcji Spółki B. Czy konieczne jest w tej sytuacji zgłoszenie do Prezesa UOKiK zamiaru nabycia akcji? Proszę uzasadnić odpowiedź."
+ },
+ {
+   "id": 31,
+   "pytanie": "31. Dyrektor Działu Sprzedaży spółki X, będącej producentem okien, w korespondencji elektronicznej z Dyrektorem Działu Marketingu spółki Y, działającej na tym samym rynku produktowym i geograficznym, zawarł następującą propozycję: „W celu podniesienia wyników sprzedaży, od Nowego Roku powinniśmy nie schodzić poniżej ceny 500PLN na podstawowy asortyment.” W odpowiedzi na ww. e-mail Dyrektor Działu Marketingu spółki Y odpisał: „Dobry pomysł. Działamy.” Proszę ocenić opisane zdarzenie z punktu widzenia ustawy o ochronie konkurencji i konsumentów. Jakie znaczenie miałby fakt, że w praktyce do realizacji uzgodnienia nie doszło?"
+ },
+ {
+   "id": 32,
+   "pytanie": "32. Proszę podać przynajmniej trzy przykłady stypizowanych w ustawie o ochronie konkurencji i konsumentów porozumień ograniczających konkurencję. Proszę podać przykład porozumienia horyzontalnego i przykład porozumienia wertykalnego."
+ },
+ {
+   "id": 33,
+   "pytanie": "33. Andrzej Literat zawarł z bankiem umowę kredytową na zakup samochodu w treści której znalazły się postanowienia wpisane do rejestru postanowień wzorców umowy uznanych za niedozwolone. Andrzej Literat zawiadomił o tym fakcie Prezesa Urzędu Ochrony Konkurencji i Konsumentów. Proszę przeanalizować dalszy tryb postępowania w tej sprawie przez Prezesa Urzędu Ochrony Konkurencji i Konsumentów."
+ },
+ {
+   "id": 34,
+   "pytanie": "34. Proszę omówić zagadnienie porozumień ograniczających konkurencję i kompetencje Prezesa Urzędu Ochrony Konkurencji i Konsumentów w przypadku stwierdzenia naruszenia zakazu ich zawierania, w tym w zakresie nakładania kar pieniężnych. Dyrektor handlowy spółki A na spotkaniu branżowym z dyrektorem ds. marketingu spółki B, działającej na tym samym rynku produktowym i geograficznym, uzgodnił, że działalność handlowa spółki A nie będzie „wkraczała” na teren Polski południowej, będący obszarem szczególnego zainteresowania spółki B, w zamian zaś przedstawiciele spółki B nie będą oferować swoich produktów na terenie Wielkopolski, będącej głównym rynkiem spółki A. Nie zawarto jednak żadnej formalnej umowy. Proszę ocenić opisane zdarzenie z punktu widzenia ustawy o ochronie konkurencji i konsumentów."
+ },
+ {
+   "id": 35,
+   "pytanie": "35. Proszę omówić zagadnienie nadużywania pozycji dominującej i kompetencje Prezesa Urzędu Ochrony Konkurencji i Konsumentów w przypadku stwierdzenia takiego nadużycia, w tym w zakresie nakładania kar pieniężnych. Proszę podać trzy przykłady nadużywania pozycji."
+ },
+ {
+   "id": 36,
+   "pytanie": "36. Proszę omówić zagadnienie praktyk naruszających zbiorowe interesy konsumentów i kompetencje Prezesa Urzędu Ochrony Konkurencji i Konsumentów w przypadku takich praktyk, w tym w zakresie nakładania kar pieniężnych. Proszę podać trzy przykłady praktyk naruszających zbiorowe interesy konsumentów."
+ },
+ {
+   "id": 37,
+   "pytanie": "37. Proszę omówić uprawnienia kontrolującego w toku czynności kontrolnych przewidzianych ustawą o ochronie konkurencji i konsumentów. W jakich przypadkach u kontrolowanego przedsiębiorcy może być przeprowadzone przeszukanie?"
+ },
+ {
+   "id": 38,
+   "pytanie": "38. Proszę omówić, jakie podmioty i przy spełnieniu jakich przesłanek, ponoszą odpowiedzialność z tytułu naruszenia zakazu porozumień ograniczających konkurencję w świetle ustawy o ochronie konkurencji i konsumentów. W sytuacji zawarcia zakazanej zmowy cenowej przez przedsiębiorcę A (sp. z o.o.) oraz przedsiębiorcę B (s.a.) – na jakie podmioty Prezes UOKIK będzie mógł nałożyć karę pieniężną? Proszę omówić przesłanki odpowiedzialności i możliwe sankcje w odniesieniu do osób fizycznych (osób zarządzających) w przypadku stwierdzenia naruszenia zakazu porozumień ograniczających konkurencję przez przedsiębiorcę."
+ },
+ {
+   "id": 39,
+   "pytanie": "39. Proszę omówić regulacje dotyczące programu łagodzenia kar w świetle ustawy o ochronie konkurencji i konsumentów. Przedsiębiorca A, który zawarł niedozwolone porozumienie ograniczające konkurencję, złożył do Prezesa UOKIK wniosek o odstąpienie od wymierzenia kary pieniężnej. Jakie warunki muszą zostać spełnione, aby wniosek został uwzględniony?"
+ },
+ {
+   "id": 40,
+   "pytanie": "40. Proszę omówić roszczenia o naprawienie szkody wyrządzonej naruszeniem prawa konkurencji oraz procedurę dochodzenia tych roszczeń przed sądem.  Proszę omówić następującą sytuację: przedsiębiorca A został poszkodowany w rezultacie zawarcia niedozwolonego porozumienia funkcjonującego w branży materiałów budowlanych. Niedozwolone porozumienie zostało stwierdzone w prawomocnej decyzji Prezesa Urzędu Ochrony Konkurencji i Konsumentów. Jakie kroki prawne doradzi Pan/Pani                przedsiębiorcy A? "
+ },
+ {
+   "id": 41,
+   "pytanie": "41. Spółka MARINA sprzedająca liny do jachtów w okresie sierpień – wrzesień 2019 miała do czynienia z kartelem producentów jachtów. W marcu 2020 roku Prezes UOKIK wydał decyzję, w której stwierdził istnienie kartelu. W kwietniu 2020 roku prezes spółki MARINA zlecił swoim prawnikom przygotowanie pozwu o odszkodowanie w związku z funkcjonowaniem kartelu. W maju 2020 roku prawnicy złożyli pozew do sądu, krótko potem prezes spółki MARINA poinformował ich, iż jeden z kartelistów zamierza usunąć z biura korespondencję, dyski twarde oraz inne dowody dotyczące mechanizmów funkcjonowania karteli. W jaki sposób Pan/Pani jako prawnik spółki MARINA dokona zabezpieczenia dowodów, a w szczególności, czy skorzysta Pan/Pani z rozwiązań prawa egzekucyjnego? Proszę też udzielić klientowi informacji prawnej na temat instytucji wniosku o wyjawienie środka dowodowego."
+ },
+ {
+   "id": 42,
+   "pytanie": "42. Proszę przedstawić cele, dla realizacji których może być ustanowiona fundacja oraz zasady ich określania. Czy można zmienić cele fundacji po jej założeniu?"
+ },
+ {
+   "id": 43,
+   "pytanie": "43. Klient zamierza ustanowić fundację i pyta radcę prawnego, jakie działania powinien podjąć jako fundator i czy wymagają one szczególnej formy, oraz kiedy będzie mógł rozpocząć działalność. Proszę udzielić porady prawnej. "
+ },
+ {
+   "id": 44,
+   "pytanie": "44. Jako radca prawny proszę udzielić klientowi, zamierzającemu utworzyć fundację, informacji prawnej na temat normatywnych wymagań statutu fundacji oraz możliwości dokonywania jego zmian, w tym udzielić odpowiedzi na pytanie, czy jako fundator musi sam ustanowić statut. "
+ },
+ {
+   "id": 45,
+   "pytanie": "45. Klient zamierza utworzyć fundację, która będzie prowadziła działalność gospodarczą i pyta, na jakich zasadach fundacja może ją prowadzić, a także, czy wymaga to od niego jako fundatora nakładów finansowych. Proszę udzielić porady prawnej. "
+ },
+ {
+   "id": 46,
+   "pytanie": "46. Klient zamierza utworzyć fundację. Proszę przedstawić mu wyczerpującą informację prawną na temat tego, w jaki sposób oraz przez kogo sprawowany jest nadzór nad działalnością fundacji. "
+ },
+ {
+   "id": 47,
+   "pytanie": "47. U radcy prawnego pojawił się klient – prezes zarządu fundacji. Ze statutu fundacji wynika, że może ona prowadzić działalność gospodarczą, jednak zarząd fundacji zamierza prowadzić działalność gospodarczą w zakresie nieprzewidzianym w statucie. Proszę udzielić klientowi informacji, jakie kroki należy podjąć, aby było to możliwe. "
+ },
+ {
+   "id": 48,
+   "pytanie": "48. U radcy prawnego pojawił się klient – prezes zarządu fundacji z pytaniem, czy to prawda, że marszałek województwa może, zgodnie z ustawą o fundacjach, zaskarżyć uchwałę zarządu fundacji do sądu. Proszę udzielić odpowiedzi i podać, kto może zaskarżyć taką uchwałę i z jakich przyczyn. "
+ },
+ {
+   "id": 49,
+   "pytanie": "49. Jako radca prawny proszę udzielić klientowi wyczerpującej informacji na temat reguł tworzenia fundacji w testamencie i warunków, na jakich fundacja ustanowiona w testamencie ma prawo być powołana do spadku."
+ },
+ {
+   "id": 50,
+   "pytanie": "50. Klient radcy prawnego chce założyć stowarzyszenie miłośników broni. Chciałby, aby w statucie zostało zapisane, że ten, kto przystąpi do stowarzyszenia, nie może z niego wystąpić przez co najmniej trzy lata. Proszę udzielić porady prawnej, czy taki zapis byłby zgodny z prawem, oraz omówić ograniczenia przy tworzeniu stowarzyszeń. "
+ },
+ {
+   "id": 51,
+   "pytanie": "51. Jako radca prawny proszę udzielić klientowi wyczerpującej informacji na temat możliwości prowadzenia działalności gospodarczej przez stowarzyszenie. "
+ },
+ {
+   "id": 52,
+   "pytanie": "52. Adam B. wraz z kolegami zamierza utworzyć stowarzyszenie, ale chciałby to zrobić w możliwie uproszczony sposób, gdyż nie jest pewny perspektyw jego funkcjonowania. Jako radca prawny proszę udzielić Adamowi B. wyczerpującej informacji na temat zakładania stowarzyszenia zwykłego oraz późniejszego funkcjonowania, a także możliwości przekształcenia stowarzyszenia zwykłego w stowarzyszenie „rejestrowe”. "
+ },
+ {
+   "id": 53,
+   "pytanie": "53. Radca prawny prowadzi stałą obsługę prawną spółki. Prezes spółki chciałby założyć razem z kilkoma innymi spółkami stowarzyszenie. Proszę udzielić mu porady prawnej, czy jest to możliwe i czy osoby prawne mogą być członkami stowarzyszenia. Proszę wskazać podmioty uprawnione do zrzeszania się w stowarzyszeniach."
+ },
+ {
+   "id": 54,
+   "pytanie": "54. Klient – stowarzyszenie zajmujące się działalnością kulturalną – zamierza założyć filię w innym mieście. Proszę udzielić porady prawnej, czy jest to możliwe i jakie działania należy podjąć w tym celu."
+ },
+ {
+   "id": 55,
+   "pytanie": "55. Proszę przedstawić wyczerpującą informację prawną na temat tego, w jaki sposób oraz przez kogo sprawowany jest nadzór nad działalnością stowarzyszenia, ze szczególnym uwzględnieniem organów go sprawujących oraz środków nadzorczych."
+ },
+ {
+   "id": 56,
+   "pytanie": "56. U radcy prawnego pojawiły się trzy osoby, które dowiedziały się o możliwości uzyskania dotacji dla sektora pozarządowego i w związku z tym zamierzają założyć stowarzyszenie. Proszę udzielić im porady prawnej, jakie kroki muszą podjąć, aby je założyć. "
+ },
+ {
+   "id": 57,
+   "pytanie": "57. Co może stanowić przedmiot zastawu rejestrowego? Proszę podać przykłady papierów wartościowych, o których mowa w Kodeksie spółek handlowych, z których prawa mogą stanowić przedmiot zastawu rejestrowego."
+ },
+ {
+   "id": 58,
+   "pytanie": "58. Proszę omówić wymogi ustanowienia zastawu rejestrowego. Czy zawarcie umowy zastawu rejestrowego na udziałach w spółce z o.o. wymaga formy szczególnej? Proszę uzasadnić stanowisko. Czy zastawem rejestrowym można zabezpieczyć wierzytelność niepieniężną? Proszę wskazać typowe przykłady wierzytelności pieniężnych zabezpieczanych zastawem rejestrowym."
+ },
+ {
+   "id": 59,
+   "pytanie": "59. Proszę omówić skutki zbycia przedmiotu zastawu rejestrowego. Proszę omówić skutki wprowadzenia do umowy zastawniczej zakazu zbycia lub obciążenia przedmiotu zastawu oraz dopuszczalność warunkowego zastrzeżenia zakazu zbycia przedmiotu zastawu."
+ },
+ {
+   "id": 60,
+   "pytanie": "60. Jako radca prawny proszę udzielić klientowi wyczerpującej informacji na temat zasad dotyczących przenoszenia zastawu rejestrowego."
+ },
+ {
+   "id": 61,
+   "pytanie": "61. Jako radca prawny proszę udzielić klientowi wyczerpującej informacji na temat instytucji zastawu na zbiorze rzeczy lub praw."
+ },
+ {
+   "id": 62,
+   "pytanie": "62. Jako radca prawny proszę udzielić klientowi wyczerpującej informacji na temat pozaegzekućyjnyćh sposobów zaspokojenia zastawnika z przedmiotu zastawu rejestrowego."
+ },
+ {
+   "id": 63,
+   "pytanie": "63. Skutki wpisu w rejestrze zastawów. Jawność formalna i jawność materialna rejestru zastawów."
+ },
+ {
+   "id": 64,
+   "pytanie": "64. Właściwość rzeczowa i miejscowa sądów w sprawach o wpis do rejestru zastawów."
+ },
+ {
+   "id": 65,
+   "pytanie": "65. Proszę wskazać podstawowe podobieństwa i różnice dotyczące zastawu rejestrowego oraz cywilnego dotyczące: - rodzaju zabezpieczanych wierzytelności, - trybu zaspokojenia z przedmiotu zastawu, - możliwości korzystania przez zastawę z rzeczy ruchomej, która jest przedmiotem zastawu  w okresie obowiązywania umowy."
+ },
+ {
+   "id": 66,
+   "pytanie": "66. Proszę omówić instytucję administratora zastawu. Proszę wskazać przykłady wierzytelności zabezpieczanych zastawem rejestrowym, w przypadku których może być ustanowiony administrator zastawu. Proszę podać przykład, w którym ustanowienie administratora zastawu jest obowiązkowe, określając: - rodzaj wierzytelności, w przypadku których ustanowienie administratora zastawu jest obligatoryjne, - strony umowy o ustanowienie administratora zastawu."
+ },
+ {
+   "id": 67,
+   "pytanie": "67. Radca prawny otrzymał od przedsiębiorcy XYZ S.A., który udzielił innemu przedsiębiorcy ABC Sp. z o.o. pożyczki w wysokości 215 000 zł, zlecenie sporządzenia umowy zastawu rejestrowego. Spółka XYZ S.A., która będzie zastawnikiem, ma wątpliwości, w jaki sposób będzie mogła się zaspokoić z przedmiotu zastawu, którym ma być samochód ciężarowy o wartości 250 000 zł, gdyby pożyczkobiorca nie spłacił pożyczki w terminie (2 lata). Działając na zlecenie zastawnika proszę określić możliwości zaspokojenia z przedmiotu zastawu, wskazując zastawnikowi: - jakie są możliwe sposoby zaspokojenia z przedmiotu zastawu, - który sposób zaspokojenia należy uznać w tym przypadku za najkorzystniejszy dla zastawnika i dlaczego, - czy zastawnik będzie musiał w okresie zastawu przechowywać przedmiot zastawu."
+ },
+ {
+   "id": 68,
+   "pytanie": "68. Co w Prawie własności przemysłowej oznacza pojęcie projekt wynalazczy? Na jakie wynalazki udzielane są patenty?"
+ },
+ {
+   "id": 69,
+   "pytanie": "69. Jako radca prawny proszę udzielić klientowi wyczerpującej informacji na temat tego, w jaki sposób oznacza się pierwszeństwo do uzyskania patentu, prawa ochronnego albo prawa z rejestracji. Dodatkowo proszę wskazać, komu przysługuje prawo do patentu w przypadku dokonania zgłoszenia tego samego wynalazku niezależnie przez co najmniej dwie osoby, które korzystają z pierwszeństwa oznaczonego tą samą datą."
+ },
+ {
+   "id": 70,
+   "pytanie": "70. Komu może przysługiwać prawo do uzyskania patentu na wynalazek albo prawa ochronnego na wzór użytkowy, jak również prawa z rejestracji wzoru przemysłowego?"
+ },
+ {
+   "id": 71,
+   "pytanie": "71. Jako radca prawny proszę udzielić klientowi wyczerpującej informacji na temat przesłanek udzielenia patentu na wynalazek w świetle ustawy Prawo własności przemysłowej."
+ },
+ {
+   "id": 72,
+   "pytanie": "72. Jako radca prawny proszę udzielić klientowi wyczerpującej informacji na temat zakresu przedmiotowego, czasowego i terytorialnego patentu oraz na temat sytuacji prawnej współuprawnionego z patentu."
+ },
+ {
+   "id": 73,
+   "pytanie": "73. Jako radca prawny proszę udzielić klientowi wyczerpującej informacji na temat przejścia patentu na inny podmiot i obciążenia patentu."
+ },
+ {
+   "id": 74,
+   "pytanie": "74. Umowy licencyjne w świetle ustawy Prawo własności przemysłowej."
+ },
+ {
+   "id": 75,
+   "pytanie": "75. Jako radca prawny proszę wyjaśnić klientowi, co to jest wzór użytkowy, co - wzór przemysłowy. "
+ },
+ {
+   "id": 76,
+   "pytanie": "76. Proszę omówić pojęcie znaku towarowego oraz zakres badania przeszkód w udzieleniu prawa ochronnego przez Urząd Patentowy."
+ },
+ {
+   "id": 77,
+   "pytanie": "77. Treść i naruszenie prawa ochronnego na znak towarowy. Jeżeli osoba trzecia używa oznaczenia podobnego do zarejestrowanego znaku towarowego i czyni to w odniesieniu do towarów podobnych do towarów objętych prawem ochronnym, a znak zarejestrowany nie jest znakiem renomowanym, to jaką okoliczność trzeba ustalić dla stwierdzenia naruszenia prawa ochronnego na znak towarowy?"
+ },
+ {
+   "id": 78,
+   "pytanie": "78. Jako radca prawny proszę udzielić klientowi wyczerpującej informacji na temat możliwości przeniesienia prawa ochronnego na znak towarowy i jego obciążenia."
+ },
+ {
+   "id": 79,
+   "pytanie": "79. Jako radca prawny proszę wyjaśnić klientowi, na czym polega pierwszeństwo i uprzednie pierwszeństwo do uzyskania prawa ochronnego na znak towarowy."
+ },
+ {
+   "id": 80,
+   "pytanie": "80. Jako radca prawny proszę udzielić klientowi wyczerpującej informacji na temat unieważnienia i wygaśnięcia prawa ochronnego na znak towarowy."
+ },
+ {
+   "id": 81,
+   "pytanie": "81. Jako radca prawny proszę udzielić klientowi zwięzłej informacji na temat postępowania spornego przed Urzędem Patentowym."
+ },
+ {
+   "id": 82,
+   "pytanie": "82. Jako radca prawny proszę udzielić klientowi informacji prawnej na temat roszczeń przysługujących mu w razie naruszenia patentu, przy uwzględnieniu momentu powstania roszczeń oraz przedawnienia."
+ },
+ {
+   "id": 83,
+   "pytanie": "83. Przewóz przesyłki wykonywany był na podstawie jednej umowy przez kilku przewoźników, w tym dwóch kolejowych, z których jeden przyjął przesyłkę do przewozu oraz przez dwie firmy transportu drogowego. Do powstania szkody w przesyłce doszło w czasie wykonywania przewozu przez ostatniego z nich, będącego przewoźnikiem kolejowym. Proszę doradzić swojemu klientowi, do którego z przewoźników winien skierować swoje roszczenia i jakie kroki winien wykonać, aby uzyskać odszkodowanie. "
+ },
+ {
+   "id": 84,
+   "pytanie": "84. Nadawca - na podstawie przepisów ustawy Prawo przewozowe - zawarł z przewoźnikiem kolejowym umowę przewozu przesyłki towarowej. Następnie przewoźnik ten powierzył wykonanie przewozu firmie świadczącej usługi transportu drogowego jako podwykonawcy. Umowa przewozu została wykonana nienależycie, a nadawca poniósł określoną szkodę. Proszę doradzić klientowi, do którego z przewoźników winien skierować swoje roszczenia i jakie kroki winien wykonać, aby uzyskać odszkodowanie."
+ },
+ {
+   "id": 85,
+   "pytanie": "85. Jako radca prawny proszę udzielić klientowi będącemu przewoźnikiem, porady prawnej w następującym stanie faktycznym. Przewoźnik przyjął zlecenie przewozu od nadawcy przesyłki. Nadawca przesyłki w chwili podstawienia się przewoźnika pod załadunek, odstąpił od umowy przewozu. Proszę udzielić przewoźnikowi porady prawnej, czy nadawca przesyłki miał do tego prawo oraz proszę o wskazanie, jakie przysługują z tego tytułu przewoźnikowi roszczenia z podaniem podstawy prawnej."
+ },
+ {
+   "id": 86,
+   "pytanie": "86. Nadawca przesyłki zawarł umowę z przewoźnikiem, który w ramach wykonania umowy posłużył się podwykonawcą. W trakcie wykonywania przewozu doszło do pożaru pojazdu przewoźnika w konsekwencji czego nastąpiło całkowite zniszczenie towaru. Proszę wskazać podmiot uprawniony do wystąpienia z roszczeniami, omawiając zagadnienie legitymacji do podnoszenia roszczeń w prawie przewozowym. Ponadto proszę wskazać, jaki rodzaj umowy został zawarty pomiędzy przewoźnikiem a jego podwykonawcą. Proszę opisać charakter odpowiedzialności przewoźnika za podwykonawcę."
+ },
+ {
+   "id": 87,
+   "pytanie": "87. Jako radca prawny proszę udzielić klientowi będącemu przewoźnikiem porady prawnej w zakresie jego odpowiedzialności za szkodę w przesyłce powstałą w trakcie czynności ładunkowych. Proszę wskazać, kto odpowiada za w/w czynności. Ponadto, proszę omówić, wskazując podstawę prawną, jakie są uprawnienia przewoźnika odnośnie do sprawdzenia stanu przesyłki i kiedy może odmówić przyjęcia jej do przewozu."
+ },
+ {
+   "id": 88,
+   "pytanie": "88. Adam B. nie miał wykupionego biletu na przejazd, a umowę zamierzał zawrzeć poprzez zajęcie miejsca w autobusie. Autobus odjechał jednak z przystanku przed planowaną godziną odjazdu i w związku z tym Adam B. poniósł określoną szkodę. Proszę wyjaśnić Adamowi B. który zwrócił się do Pani/Pana o poradę w tej sprawie, czy może dochodzić odszkodowania z tego tytułu i ewentualnie na jakiej podstawie prawnej."
+ },
+ {
+   "id": 89,
+   "pytanie": "89. Jako radca prawny proszę wyjaśnić klientowi pojęcia „listu przewozowego” i „kwitu bagażowego”, o których mowa w ustawie Prawo przewozowe, a także udzielić odpowiedzi, czy wystawienie listu przewozowego lub kwitu bagażowego jest niezbędnym warunkiem zawarcia ważnej umowy przewozu rzeczy na gruncie ustawy Prawo przewozowe."
+ },
+ {
+   "id": 90,
+   "pytanie": "90. Proszę omówić, jak - na podstawie przepisów ustawy Prawo przewozowe - kształtuje się odpowiedzialność przewoźnika w przewozie rzeczy (przesyłek) z tytułu nienależytego wykonania umowy przewozu przesyłek. Proszę wskazać, na czym może polegać nienależyte wykonanie umowy przewozu przez przewoźnika. "
+ },
+ {
+   "id": 91,
+   "pytanie": "91. Nadawca zadeklarował w liście przewozowym, że wartość jego przesyłki wynosi 10.000 zł. Przesyłka zaginęła i nie dotarła do odbiorcy. Proszę omówić - na podstawie przepisów ustawy Prawo przewozowe - instytucję deklaracji wartości przewożonych rzeczy w liście przewozowym. Proszę udzielić klientowi informacji prawnej, dotyczącej  zasad ustalania odszkodowania za utratę lub ubytek przesyłki z deklarowaną wartością."
+ },
+ {
+   "id": 92,
+   "pytanie": "92. Jako radca prawny proszę udzielić klientowi wyczerpującej informacji na temat ograniczeń wysokości odszkodowania należnego od przewoźnika w przewozie rzeczy (przesyłek) na podstawie ustawy Prawo przewozowe. Proszę wskazać również, w jakich okolicznościach - w przypadku szkody w przesyłce (przewożonej rzeczy) - uprawnionemu służy roszczenie do przewoźnika o utracone korzyści.  "
+ },
+ {
+   "id": 93,
+   "pytanie": "93. Jako radca prawny proszę udzielić klientowi informacji prawnej, dotyczącej obowiązków przewoźnika w przewozie rzeczy, w przypadku ubytku lub uszkodzenia przesyłki, skutków przyjęcia przesyłki bez zastrzeżeń przez uprawnionego oraz terminów przedawnienia roszczeń przysługujących uprawnionemu z tytułu ubytku lub uszkodzenia przesyłki, w tym zasad zawieszenia biegu przedawnienia."
+ },
+ {
+   "id": 94,
+   "pytanie": "94. Nadawca nie uiścił należności przewoźnika z tytułu kosztów poniesionych przez niego w wyniku wykonania polecenia nadawcy odnoszących się do zmiany umowy przewozu. Strony zawarły kolejną umowę przewozu, a przewoźnik poinformował nadawcę o zabezpieczeniu swojego roszczenia poprzez ustanowienie zastawu na przesyłce będącej przedmiotem kolejnej umowy. Czy miał takie uprawnienie? Proszę omówić instytucję zastawu na przesyłce, określoną w przepisach ustawy Prawo przewozowe."
+ },
+ {
+   "id": 95,
+   "pytanie": "95. Jako radca prawny proszę udzielić klientowi porady prawnej w następującym stanie faktycznym. Klient zawarł ze spedytorem umowę, której treść stanowiło zorganizowanie przewozu towaru. Następnie spedytor we własnym imieniu zawarł umowę z przewoźnikiem. W trakcie wykonywania przewozu, na skutek wypadku drogowego, doszło do całkowitego zniszczenia towaru. Proszę udzielić porady prawnej klientowi, czy może bezpośrednio skierować swoje roszczenia do przewoźnika. Proszę również wskazać zakres odpowiedzialności spedytora oraz czynności, które powinien podjąć w razie wystąpienia szkody w transporcie."
+ },
+ {
+   "id": 96,
+   "pytanie": "96. Proszę omówić – na podstawie przepisów Kodeksu cywilnego - różnicę pomiędzy umową spedycji pośredniej i bezpośredniej. Proszę opisać charakter w/w umów oraz wskazać, kto jest stroną umowy przewozu w zależności od treści umowy spedycji. Ponadto, proszę omówić różnice pomiędzy umową przewozu i spedycji wraz ze wskazaniem przykładów czynności określających jeden lub drugi rodzaj umowy. "
+ },
+ {
+   "id": 97,
+   "pytanie": "97. Jako radca prawny proszę udzielić klientowi świadczącemu usługi z zakresu umowy spedycji informacji na temat ustawowego prawa zastawu na przesyłce. Proszę wskazać sytuacje, w których jest to możliwe. Ponadto, proszę omówić odpowiedzialność spedytora za działania przewoźnika, którym posługuje się przy wykonywaniu umowy i dalszych spedytorów, ze wskazaniem terminu przedawnienia roszeń oraz zasad dochodzenia roszczeń regresowych."
+ },
+ {
+   "id": 98,
+   "pytanie": "98. Proszę omówić status prawny spółdzielni oraz  podać jej definicję, wymienić jej cechy i podstawy prawne działania. "
+ },
+ {
+   "id": 99,
+   "pytanie": "99. Jako radca prawny proszę udzielić klientowi wyczerpującej informacji na temat trybu zakładania i rejestrowania spółdzielni oraz trybu uchwalania statutu i jego zmian, a także treści statutu - w świetle przepisów ustawy Prawo spółdzielcze i ustawy o spółdzielniach mieszkaniowych."
+ },
+ {
+   "id": 100,
+   "pytanie": "100. Jako radca prawny proszę udzielić klientowi wyczerpującej informacji na temat członkostwa w spółdzielni w świetle ustawy Prawo spółdzielcze, a w szczególności warunków nabycia członkostwa w spółdzielni przez założycieli spółdzielni, przez nabywających członkostwo z mocy prawa i przez przystępujących do spółdzielni. "
+ },
+ {
+   "id": 101,
+   "pytanie": "101. Proszę udzielić klientowi, który rozważa przystąpienie do spółdzielni informacji prawnej dotyczącej praw i obowiązków członka spółdzielni oraz skutków niewykonywania przez członka spółdzielni obowiązków statutowych - w świetle ustawy Prawo spółdzielcze (z wyłączeniem szczególnych praw i obowiązków członków spółdzielni produkcji rolnej i spółdzielni pracy)."
+ },
+ {
+   "id": 102,
+   "pytanie": "102. Proszę udzielić klientowi informacji prawnej dotyczącej powstania i ustania członkostwa w spółdzielni w świetle ustawy Prawo spółdzielcze i ustawy o spółdzielniach mieszkaniowych. Ponadto, proszę udzielić klientowi porady prawnej dotyczącej prawnych uwarunkowań realizacji jego uprawnień majątkowych wynikających z ustania jego członkostwa w spółdzielni."
+ },
+ {
+   "id": 103,
+   "pytanie": "103. Proszę udzielić klientowi informacji prawnej dotyczącej zasad postępowania wewnątrzspółdzielczego, w świetle ustawy Prawo spółdzielcze, a w szczególności wskazać, z jakich środków odwoławczych może on skorzystać, jako członek spółdzielni, w przypadku podjęcia uchwały w sprawie wykluczenia lub wykreślenia go ze spółdzielni, jeżeli organem właściwym w sprawie wykluczenia albo wykreślenia członka ze spółdzielni jest - zgodnie z postanowieniami statutu - rada nadzorcza. "
+ },
+ {
+   "id": 104,
+   "pytanie": "104. Walne zgromadzenie spółdzielni w świetle ustawy Prawo spółdzielcze i ustawy o spółdzielniach mieszkaniowych - proszę wskazać kompetencje tego organu, omówić zasady zwoływania oraz podać różnice w uregulowaniach dotyczących tego organu spółdzielni wynikające z ww. ustaw."
+ },
+ {
+   "id": 105,
+   "pytanie": "105. Uchwały walnego zgromadzenia (zebrania przedstawicieli) spółdzielni w świetle ustawy Prawo spółdzielcze - proszę omówić zasady ich podejmowania, wymienić sprawy, w których wymagana jest kwalifikowana większość do podjęcia uchwał przez ten organ, możliwość zmieniania i ich zaskarżania. Proszę wskazać właściwość sądu, terminy i przesłanki do wniesienia  powództwa o stwierdzenie uchwały  za nieistniejącą, nieważną lub powództwa o uchylenie uchwały walnego zgromadzenia."
+ },
+ {
+   "id": 106,
+   "pytanie": "106. Jako radca prawny proszę przedstawić swojemu klientowi cechy wyróżniające spółdzielnię mieszkaniową od innych spółdzielni, w szczególności proszę omówić przedmiot działalności, podać organy spółdzielni mieszkaniowej i krąg podmiotów, które są lub mogą być członkami spółdzielni mieszkaniowej."
+ },
+ {
+   "id": 107,
+   "pytanie": "107. Proszę udzielić klientowi wyczerpującej informacji prawnej dotyczącej istniejących rodzajów praw do lokali, w świetle ustawy o spółdzielniach mieszkaniowych. "
+ },
+ {
+   "id": 108,
+   "pytanie": "108. Rada nadzorcza spółdzielni w świetle ustawy Prawo spółdzielcze oraz ustawy  o spółdzielniach mieszkaniowych - proszę wskazać kompetencje organu oraz różnice w uregulowaniach dotyczących rady nadzorczej wynikające z ww. ustaw."
+ },
+ {
+   "id": 109,
+   "pytanie": "109. Proszę udzielić klientowi, będącemu członkiem spółdzielni mieszkaniowej ubiegającym się o ustanowienie odrębnej własności lokalu, informacji prawnej dotyczącej trybu zawarcia oraz wymaganej treści umowy o budowę lokalu, a także proszę wyjaśnić mu kwestię ekspektatywy prawa odrębnej własności lokalu. "
+ },
+ {
+   "id": 110,
+   "pytanie": "110. Proszę omówić przypadki, w których spółdzielnia może ustanowić spółdzielcze lokatorskie prawo do lokalu mieszkalnego, a także omówić przypadki wygaśnięcia spółdzielczego lokatorskiego prawa do lokalu."
+ },
+ {
+   "id": 111,
+   "pytanie": "111. Umowa o budowę lokalu z członkiem spółdzielni ubiegającym się o ustanowienie spółdzielczego lokatorskiego prawa do lokalu mieszkalnego - proszę podać strony umowy, jej formę oraz postanowienia, jakie winna zawierać."
+ },
+ {
+   "id": 112,
+   "pytanie": "112. Jako radca prawny proszę wyjaśnić klientowi pojęcie „utworu”, jako przedmiotu prawa autorskiego."
+ },
+ {
+   "id": 113,
+   "pytanie": "113. Jako radca prawny proszę wyjaśnić klientowi pojęcie „autorskich praw osobistych”."
+ },
+ {
+   "id": 114,
+   "pytanie": "114. Jako radca prawny proszę wyjaśnić klientowi pojęcie „autorskich praw majątkowych”."
+ },
+ {
+   "id": 115,
+   "pytanie": "115. Jako radca prawny proszę wyjaśnić klientowi zakres dozwolonego użytku chronionych utworów i wskazać jego rodzaje."
+ },
+ {
+   "id": 116,
+   "pytanie": "116. Proszę wskazać i krótko omówić podstawy przejścia na inne osoby autorskich praw majątkowych."
+ },
+ {
+   "id": 117,
+   "pytanie": "117. Jako radca prawny proszę wyjaśnić klientowi pojęcie „odrębnego pola eksploatacji” w rozumieniu ustawy o prawie autorskim i prawach pokrewnych."
+ },
+ {
+   "id": 118,
+   "pytanie": "118. Jako radca prawny proszę wskazać klientowi elementy umowy o przeniesienie autorskich praw majątkowych."
+ },
+ {
+   "id": 119,
+   "pytanie": "119. Jako radca prawny proszę wskazać klientowi elementy umowy licencyjnej – w świetle ustawy o prawie autorskim i prawach pokrewnych."
+ },
+ {
+   "id": 120,
+   "pytanie": "120. Jako radca prawny proszę wyjaśnić klientowi problematykę licencji wyłącznej i niewyłącznej, w świetle ustawy o prawie autorskim i prawach pokrewnych."
+ },
+ {
+   "id": 121,
+   "pytanie": "121. Jako radca prawny proszę wyjaśnić klientowi zasady ochrony autorskich praw osobistych, w świetle ustawy o prawie autorskim i prawach pokrewnych."
+ },
+ {
+   "id": 122,
+   "pytanie": "122. Jako radca prawny proszę wyjaśnić klientowi zasady ochrony autorskich praw majątkowych, w świetle ustawy o prawie autorskim i prawach pokrewnych."
+ },
+ {
+   "id": 123,
+   "pytanie": "123. Jako radca prawny proszę przedstawić klientowi problematykę ochrony wizerunku, uregulowaną w ustawie o prawie autorskim i prawach pokrewnych."
+ },
+ {
+   "id": 124,
+   "pytanie": "124. Proszę omówić współtwórstwo utworu, relacje prawne między współtwórcami oraz rodzaje utworów wspólnych."
+ },
+ {
+   "id": 125,
+   "pytanie": "125. Proszę omówić problematykę utworów pracowniczych, w tym odrębności dotyczące utworów naukowych i programistycznych. "
+ },
+ {
+   "id": 126,
+   "pytanie": "126. Jako radca prawny proszę przedstawić klientowi problematykę czasu trwania autorskich praw majątkowych. "
+ },
+ {
+   "id": 127,
+   "pytanie": "127. Jako radca prawny proszę przedstawić klientowi problematykę praw autorskich do programów komputerowych."
+ },
+ {
+   "id": 128,
+   "pytanie": "128. Do radcy prawnego zgłosił się klient, który chce skorzystać z usług księgowości świadczonych on – line. Pyta, czy powinien otrzymać regulamin świadczenia tych usług oraz jakich innych informacji powinien mu udzielić usługodawca. Proszę udzielić porady prawnej, jakie obowiązki wobec odbiorców ma usługodawca świadczący usługi drogą elektroniczną. "
+ },
+ {
+   "id": 129,
+   "pytanie": "129. Klient radcy prawnego nakręcił krótki film, o charakterze prywatnym, który następnie został umieszczony na portalu internetowym bez jego zgody. Proszę udzielić porady prawnej, czy za bezprawne przechowywanie filmu odpowiada, zgodnie z ustawą o świadczeniu usług drogą elektroniczną, podmiot świadczący usługi hostingu? "
+ },
+ {
+   "id": 130,
+   "pytanie": "130. Proszę wskazać, jakie - według ustawy o świadczeniu usług drogą elektroniczną - dane osobowe usługobiorcy, niezbędne do nawiązania, ukształtowania treści, zmiany lub rozwiązania stosunku prawnego, może przetwarzać usługodawca."
+ },
+ {
+   "id": 131,
+   "pytanie": "131. Jako radca prawny proszę wyjaśnić klientowi, który zamierza świadczyć usługi drogą elektroniczną, co powinien zawierać regulamin świadczenia usług, zgodnie z ustawą o świadczeniu usług drogą elektroniczną?"
+ },
+ {
+   "id": 132,
+   "pytanie": "132. Do radcy prawnego zgłosił się klient, któremu do skrzynki pocztowej włożono ulotki z informacjami o dostawcy mediów. Klient uważa, że jest to niezamówiona informacja handlowa w rozumieniu ustawy o świadczeniu usług drogą elektroniczną, gdyż dotyczy m.in. usług dostępu do Internetu. Proszę wyjaśnić klientowi pojęcie niezamówionej informacji handlowej w rozumieniu ww. ustawy. "
+ },
+ {
+   "id": 133,
+   "pytanie": "133. Jako radca prawny proszę wyjaśnić klientowi niezadowolonemu z otrzymywania mailowych informacji handlowych, na które nie wyraził zgody, czy nadawca podlega odpowiedzialności karnej i na jakich zasadach. "
+ },
+ {
+   "id": 134,
+   "pytanie": "134. Jako radca prawny proszę wyjaśnić klientowi, na czym polega świadczenie usługi drogą elektroniczną w rozumieniu ustawy o świadczeniu usług drogą elektroniczną. Czy obsługa prawna klienta, świadczona w ten sposób, że radca prawny dwa razy w tygodniu po cztery godziny jest u klienta, a w pozostałym czasie odbiera od niego maile i odpowiada na nie, podlega wymogom tej ustawy?"
+ },
+ {
+   "id": 135,
+   "pytanie": "135. Proszę określić materialny zakres zastosowania RODO. Proszę wskazać przypadki przetwarzania danych osobowych, do których RODO nie ma zastosowania."
+ },
+ {
+   "id": 136,
+   "pytanie": "136. Jako radca prawny proszę wyjaśnić klientowi, w jaki sposób definiowana jest „zgoda” na przetwarzanie danych osobowych w RODO oraz wyjaśnić, na czym polega możliwość wyrażenia zgody poprzez zaznaczenie tzw. „okienka wyboru”."
+ },
+ {
+   "id": 137,
+   "pytanie": "137. Proszę omówić podstawy przetwarzania danych osobowych, z wyłączeniem podstaw przetwarzania szczególnych kategorii danych."
+ },
+ {
+   "id": 138,
+   "pytanie": "138. Proszę omówić pojęcie „szczególnych kategorii danych osobowych” w świetle RODO. Czy w przypadku, gdy osoba, której dane dotyczą, wyrazi zgodę na przetwarzanie np. danych genetycznych, mogą być one przetwarzane, a jeśli tak, to na jakich zasadach."
+ },
+ {
+   "id": 139,
+   "pytanie": "139. Proszę udzielić administratorowi danych osobowych porady prawnej dotyczącej tego, jakich informacji musi udzielić on osobie, od której zbiera jej dane osobowe i w jaki sposób powinien to zrobić ."
+ },
+ {
+   "id": 140,
+   "pytanie": "140. Jako radca prawny proszę udzielić klientowi porady prawnej określającej sposób postępowania administratora, planującego przetwarzanie danych osobowych w celu innym, niż cel w kto rym dane zostały zebrane. "
+ },
+ {
+   "id": 141,
+   "pytanie": "141. Jako radca prawny proszę wyjaśnić klientowi, na czym polega wynikające z RODO „prawo do bycia zapomnianym”. Czy ze względu na interes publiczny w dziedzinie zdrowia publicznego administrator może odmówić usunięcia danych osobowych?"
+ },
+ {
+   "id": 142,
+   "pytanie": "142. Proszę omówić zasady korzystania przez osobę, której dane osobowe są przetwarzane, z przysługującego jej - na mocy RODO - prawa do sprzeciwu. Proszę wyjaśnić , jaki będzie skutek wniesienia sprzeciwu wobec przetwarzania danych do celów marketingu bezpośredniego przez osobę, której dane dotyczą."
+ },
+ {
+   "id": 143,
+   "pytanie": "143. Proszę omówić – uregulowaną w RODO – problematykę rejestrowania czynności przetwarzania danych osobowych, w tym wskazać podmiot zobowiązany do prowadzenia rejestru oraz niezbędne informacje, które rejestr ten musi zawierać ."
+ },
+ {
+   "id": 144,
+   "pytanie": "144. Proszę omówić wymagania RODO, dotyczące zgłaszania przypadków w naruszenia ochrony danych osobowych. Czy administrator ma obowiązek dokumentować przypadki naruszenia ochrony danych osobowych, a jeżeli tak, to w jakim celu?"
+ },
+ {
+   "id": 145,
+   "pytanie": "145. Proszę wskazać przypadki, w których - wedle RODO - administrator ma obowiązek poinformowania osoby, kto rej dane dotyczą, o naruszeniu ochrony danych osobowych. Czy w przypadku, kiedy zawiadomienie osoby, której dane dotyczą, o naruszeniu ochrony danych osobowych, będzie powodowało konieczność niewspółmiernie dużego wysiłku, administrator ma obowiązek zawiadomienia jej, czy tez może skorzystać z innych form komunikacji."
+ },
+ {
+   "id": 146,
+   "pytanie": "146. Proszę omówić wskazane w RODO zasady wnoszenia skargi do organu nadzorczego, a w szczególności wskazać, komu i w jakich sytuacjach przyznana została możliwość jej wnoszenia."
+ },
+ {
+   "id": 147,
+   "pytanie": "147. Proszę omówić na jakich zasadach i komu w świetle RODO przysługuje ochrona prawna przed sądem przeciwko administratorowi lub podmiotowi przetwarzającemu. Proszę omówić kwestię właściwości miejscowej sądu w przypadku, gdy administrator lub podmiot przetwarzający są podmiotami publicznymi państwa członkowskiego i wykonują swoje uprawnienia publiczne."
+ },
+ {
+   "id": 148,
+   "pytanie": "148. Proszę udzielić klientom, tj. administratorowi oraz podmiotowi przetwarzającemu dane osobowe, informacji prawnej dotyczącej zasad ich odpowiedzialności cywilnoprawnej na gruncie RODO."
+ },
+ {
+   "id": 149,
+   "pytanie": "149. Jako radca prawny proszę udzielić klientowi informacji prawnej dotyczącej warunków i zasad nakładania pieniężnych kar administracyjnych z tytułu naruszenia przepisów RODO."
+ },
+ {
+   "id": 150,
+   "pytanie": "150. Jako radca prawny proszę wyjaśnić klientowi, w jakich sytuacjach i w jaki sposób może skorzystać z prawa do przenoszenia danych osobowych."
+ },
+ {
+   "id": 151,
+   "pytanie": "151. Jako radca prawny proszę wyjaśnić klientowi, na czym polega powierzenie przetwarzania danych osobowych, w tym omówić podstawy powierzenia przetwarzania, treść umowy o powierzenie przetwarzania danych osobowych oraz zasady dalszego podpowierzenia danych osobowych."
+ },
+ {
+   "id": 152,
+   "pytanie": "152. Proszę wyjaśnić swojemu klientowi, w jakich przypadkach jako administrator danych osobowych oraz podmiot przetwarzający dane osobowe musi wyznaczyć inspektora ochrony danych, a w jakich przypadkach wyznaczanie Inspektora ochrony danych jest fakultatywne."
+ },
+ {
+   "id": 153,
+   "pytanie": "153. Proszę udzielić swojemu klientowi informacji na temat statusu oraz zadań inspektora ochrony danych."
+ },
+ {
+   "id": 154,
+   "pytanie": "154. Proszę opisać swojemu klientowi przypadki naruszenia danych osobowych oraz przedstawić sposób postępowania w związku z naruszeniem ochrony danych osobowych, który przewiduje RODO."
+ },
+ {
+   "id": 155,
+   "pytanie": "155. Proszę wyjaśnić swojemu klientowi, w jakich przypadkach powinien zawiadomić Prezesa UODO o naruszeniu ochrony danych osobowych, a także jaka powinna być forma i treść tego zawiadomienia."
+ },
+ {
+   "id": 156,
+   "pytanie": "156. Proszę wyjaśnić swojemu klientowi przebieg postępowania w sprawie naruszenia przepisów o ochronie danych osobowych, o którym mowa w ustawie o ochronie danych osobowych."
+ },
+ {
+   "id": 157,
+   "pytanie": "157. Proszę udzielić swojemu klientowi informacji prawnej na temat wynikających z RODO ogólnych zasad przetwarzania danych osobowych."
+ },
+ {
+   "id": 158,
+   "pytanie": "158. Proszę wyjaśnić swojemu klientowi, jakie są warunki skuteczności zgody na przetwarzanie danych osobowych."
+ },
+ {
+   "id": 159,
+   "pytanie": "159. Proszę wyjaśnić swojemu klientowi, czym są szczególne kategorie danych osobowych. "
+ },
+ {
+   "id": 160,
+   "pytanie": "160. Proszę wyjaśnić swojemu klientowi, czym są dane genetyczne i biometryczne oraz przedstawić mu zasady przetwarzania takich danych."
+ },
+ {
+   "id": 161,
+   "pytanie": "161. Proszę przedstawić klientowi - w świetle przepisów RODO - warunki wyrażenia przez dziecko zgody na przetwarzanie jego danych osobowych."
+ },
+ {
+   "id": 162,
+   "pytanie": "162. Proszę omówić, z jakich rejestrów składa się Krajowy Rejestr Sądowy oraz wskazać ogólne przesłanki, terminy powstania obowiązku zgłoszenia do KRS i uzyskania wpisu w Rejestrze. Proszę podać przykładowe zdarzenia prawne, determinujące powstanie obowiązku rejestrowego."
+ },
+ {
+   "id": 163,
+   "pytanie": "163. Proszę wymienić rodzaje (typy) podmiotów, na które przepisy ustaw nakładają obowiązek uzyskania wpisu do Krajowego Rejestru Sądowego, z uwzględnieniem poszczególnych rejestrów."
+ },
+ {
+   "id": 164,
+   "pytanie": "164. Proszę omówić zasadnicze funkcje Centralnej Informacji Krajowego Rejestru Sądowego oraz zasady udostępniania danych oraz akt rejestrowych podmiotów wpisanych do Krajowego Rejestru Sądowego (jawność rejestrów, ewentualne ograniczenia jawności)."
+ },
+ {
+   "id": 165,
+   "pytanie": "165. Proszę przedstawić klientowi przebieg postępowania w sprawach z wniosku o wpis do rejestru przedsiębiorców w Krajowego Rejestru Sądowego, w tym formalne wymogi wniosku o wpis do Krajowego Rejestru Sądowego oraz konsekwencje ich niedochowania."
+ },
+ {
+   "id": 166,
+   "pytanie": "166. Proszę udzielić klientowi porady prawnej, dotyczącej możliwości podniesienia przez podmiot wpisany do KRS zarzutu nieprawdziwości wpisanych w nim danych."
+ },
+ {
+   "id": 167,
+   "pytanie": "167. Proszę omówić środki stosowane przez sąd rejestrowy i tryb postępowania w razie stwierdzenia, z e wniosek o wpis do KRS lub dokumenty, których złożenie jest obowiązkowe, nie zostały złożone pomimo upływu terminu. Powyższe zagadnienie proszę omówić na przykładzie sytuacji, kiedy spółka zmieniła adres, ale nie złożyła wniosku bo wpis zmian do KRS, a sąd rejestrowy dowiedział się o zmianie adresu z innego źródła (z pisma wspólnika)."
+ },
+ {
+   "id": 168,
+   "pytanie": "168. Proszę omówić zasady postępowania przymuszającego prowadzonego przez sąd rejestrowy z urzędu, na przykładzie sytuacji, gdy były wspólnik spółki z o.o., który zbył swoje udziały, zawiadomił pisemnie sąd rejestrowy o tym, że spółka nie wykonała obowiązku złożenia wniosku o wpis zmian w zakresie wspólników."
+ },
+ {
+   "id": 169,
+   "pytanie": "169. Proszę wymienić , jakie dane informacyjne podmioty wpisane do KRS obowiązane są umieszczać w oświadczeniach i pismach. Proszę omówić skutki uchybienia temu obowiązkowi."
+ },
+ {
+   "id": 170,
+   "pytanie": "170. Proszę omówić domniemania związane z wpisami w KRS oraz ich konsekwencje dla podmiotu rejestrowego i osób trzecich."
+ },
+ {
+   "id": 171,
+   "pytanie": "171. Proszę omówić podstawy wpisów do Rejestru dłużników niewypłacalnych oraz wskazać przypadki wpisu z urzędu i na wniosek - w świetle ustawy o Krajowym Rejestrze Sądowym."
+ },
+ {
+   "id": 172,
+   "pytanie": "172. Proszę wskazać dane zamieszczane w Rejestrze dłużników niewypłacalnych oraz podstawy wykreślenia wpisów z Rejestru dłużników niewypłacalnych w świetle ustawy o Krajowym Rejestrze Sądowym."
+ },
+ {
+   "id": 173,
+   "pytanie": "173. Jako radca prawny proszę wyjaśnić klientowi, w jakich przypadkach sąd rejestrowy może z urzędu wykreślić przedsiębiorcę z rejestru przedsiębiorców"
+ },
+ {
+   "id": 174,
+   "pytanie": "174. Do radcy prawnego zgłosił się klient, który jest zatrudniony jako nauczyciel. Oprócz pracy w szkole, zamierza udzielać korepetycji i z tego osiągnie przychód około 200 - 300 zł miesięcznie, nie wyklucza jednak, że z czasem przychód wzrośnie. Proszę udzielić porady, czy ta działalność jest działalnością gospodarczą w rozumieniu ustawy – Prawo przedsiębiorców? Proszę omówić tzw. działalność nieewidencjonowaną."
+ },
+ {
+   "id": 175,
+   "pytanie": "175. Klient zamierza podjąć jednoosobową działalność gospodarczą. Nie będzie zatrudniał pracowników. Zapytał radcy prawnego, gdzie ma zarejestrować działalność i od kiedy może zacząć działać. Proszę udzielić porady, uwzględniając rejestrację działalności w formie elektronicznej i pisemnej. "
+ },
+ {
+   "id": 176,
+   "pytanie": "176. Klient będący przedsiębiorcą twierdzi, że zgodnie z ustawą – Prawo przedsiębiorców wszystkie wątpliwości we wszystkich postępowaniach muszą być zawsze rozstrzygane na jego korzyść. Czy tak jest w istocie? Jakie inne zasady w tym zakresie przewiduje ustawa – Prawo przedsiębiorców?"
+ },
+ {
+   "id": 177,
+   "pytanie": "177. Klient będący przedsiębiorcą, zamierza zapłacić innemu przedsiębiorcy za usługę gotówką. Czy jest to zgodne z prawem? Kiedy przedsiębiorca musi rozliczać się za pośrednictwem rachunku bankowego?"
+ },
+ {
+   "id": 178,
+   "pytanie": "178. Klientka, która prowadzi jednoosobową działalność gospodarczą zarejestrowaną w CEIDG i nie zatrudnia pracowników, chciałaby zawiesić wykonywanie działalności. Czy jest to możliwe, a jeżeli tak, na jakich zasadach i jakie czynności musi podjąć? "
+ },
+ {
+   "id": 179,
+   "pytanie": "179. Przedsiębiorca zawiesił wykonywanie działalności gospodarczej. Już po zawieszeniu otrzymał odpis pozwu i wezwanie z sądu – został pozwany w sprawie związanej z tą działalnością. Zapytał radcę prawnego, czy wystarczy wysłać do sądu pismo z informacją o zawieszeniu. Proszę udzielić porady prawnej i wyjaśnić, jakie czynności może w trakcie okresu zawieszenia wykonywać przedsiębiorca."
+ },
+ {
+   "id": 180,
+   "pytanie": "180. Klient pojawił się w kancelarii radcy prawnego z problemem interpretacji przepisów  dotyczących płatności składek na ubezpieczenie społeczne. Proszę udzielić porady, do kogo może zwrócić się z wnioskiem o interpretację indywidualną, co powinien zawierać wniosek i jakie będą skutki niewydania interpretacji przez organ w terminie ustawowym?"
+ },
+ {
+   "id": 181,
+   "pytanie": "181. Klient otrzymał interpretację indywidualną wydaną na podstawie przepisów ustawy – Prawo przedsiębiorców. Pojawił się u radcy prawnego z pytaniem, czy musi się do niej stosować; zapytał też, czy w przyszłości może ona ulec zmianie bez jego zgody. Proszę udzielić porady w zakresie mocy wiążącej i możliwości zmian interpretacji indywidualnej wydanej na podstawie ustawy – Prawo przedsiębiorców."
+ },
+ {
+   "id": 182,
+   "pytanie": "182. Klient usłyszał od kolegi, że jeżeli zwróci się do ministra, to minister wyda mu objaśnienia prawne w sprawie przepisów dotyczących działalności gospodarczej. Czy tak jest w istocie? Proszę wyjaśnić klientowi, czym są objaśnienia prawne, kto je wydaje i kto może złożyć wniosek o ich wydanie. "
+ },
+ {
+   "id": 183,
+   "pytanie": "183. Klient zamierza rozpocząć prowadzenie działalności gospodarczej w zakresie ochrony osób i mienia. Proszę udzielić porady klientowi, czym jest koncesja, gdzie dowie się o warunkach uzyskania koncesji, oraz czy właściwy organ może odmówić mu wydania koncesji, w oparciu o ustawę – Prawo przedsiębiorców."
+ },
+ {
+   "id": 184,
+   "pytanie": "184. Proszę udzielić klientowi porady na podstawie ustawy – Prawo przedsiębiorców, jak uzyskać wpis do rejestru działalności regulowanej. Czy właściwy organ może odmówić wpisu? "
+ },
+ {
+   "id": 185,
+   "pytanie": "185. Klient otrzymał zawiadomienie o zamiarze wszczęcia kontroli przez uprawniony organ. Proszę udzielić porady prawnej, w jakim terminie od doręczenia zawiadomienia może zostać wszczęta kontrola, jakie będą skutki przekroczenia tego terminu i czy jakiekolwiek czynności mogą zostać wykonane następnego dnia po doręczeniu zawiadomienia."
+ },
+ {
+   "id": 186,
+   "pytanie": "186. U klienta – przedsiębiorcy prowadzącego jednoosobową działalność gospodarczą pojawili się pracownicy organu kontroli. Klient przeanalizował treść okazanych mu upoważnień i stwierdził, że nie mają one wszystkich elementów wymaganych ustawą – Prawo przedsiębiorców. Jako radca prawny proszę udzielić porady prawnej, jakie środki odwoławcze przysługują klientowi. Czy wniesienie tego środka spowoduje wstrzymanie czynności kontrolnych?"
+ },
+ {
+   "id": 187,
+   "pytanie": "187. Klient otrzymał zawiadomienie o zamiarze wszczęcia kontroli. W dniu kontroli był nieobecny i nie wskazał osoby upoważnionej – w siedzibie byli jednak jego pracownicy. Klient uważa, że skoro w trakcie czynności nie było właściciela, ani osoby upoważnionej, kontrola jest nieważna. Proszę udzielić porady, czy tak jest w istocie i kiedy kontrola może być prowadzona pod nieobecność przedsiębiorcy."
+ },
+ {
+   "id": 188,
+   "pytanie": "188. Klient miał zamiar prowadzić działalność gospodarczą. Złożył wniosek i został zarejestrowany w CEIDG. Dwa dni po dokonaniu wpisu, ale przed podjęciem jej wykonywania, otrzymał ofertę pracy za granicą. Zamierza skorzystać z tej propozycji i nie chce już prowadzić działalności gospodarczej. Proszę udzielić klientowi porady, jaką informację powinien zgłosić do CEIDG."
+ },
+ {
+   "id": 189,
+   "pytanie": "189. Klient zamierza rozpocząć działalność gospodarczą i chce wiedzieć, czy wszystkie jego dane będą udostępniane na stronie internetowej CEIDG. Proszę wyjaśnić klientowi, jakie informacje o przedsiębiorcy nie są, a jakie nie muszą być udostępniane. "
+ },
+ {
+   "id": 190,
+   "pytanie": "190. Klient w salonie telefonii komórkowej uzyskał informację, że ma przedłożyć zaświadczenie o wpisie do CEIDG. Proszę udzielić porady, jak uzyskać takie zaświadczenie. Czy istnieje obowiązek przedkładania takich zaświadczeń w postępowaniu administracyjnym?"
+ },
+ {
+   "id": 191,
+   "pytanie": "191. Klient prowadzący działalność gospodarczą zarejestrowaną w CEIDG, zamierza ustanowić pełnomocnika. Proszę udzielić mu informacji, jakie skutki wywołuje opublikowanie w CEIDG informacji o pełnomocniku. "
+ },
+ {
+   "id": 192,
+   "pytanie": "192. Klient usłyszał o Punkcie Informacji dla Przedsiębiorcy i zapytał, czy jako mały przedsiębiorca może tam uzyskać poradę w swojej indywidualnej sprawie. Proszę wyjaśnić klientowi, czy uzyska taką poradę oraz czym jest Punkt i do jakich informacji zapewnia dostęp. "
+ },
+ {
+   "id": 193,
+   "pytanie": "193. Klient skarży się, że do lokalu użytkowego, którego jest najemcą, wciąż przychodzi korespondencja przeznaczona dla byłego najemcy. Były najemca nie ma już tytułu prawnego do lokalu, jednak nie zgłosił zmiany adresu do doręczeń do CEIDG. Jako radca prawny proszę udzielić klientowi porady prawnej, co w takiej sytuacji powinien zrobić."
+ },
+ {
+   "id": 194,
+   "pytanie": "194. Proszę omówić zakres przedmiotowy i podmiotowy ustawy o zwalczaniu nieuczciwej konkurencji. Proszę wskazać, czy ustawa ma zastosowanie do związków przedsiębiorców. Proszę wymienić co najmniej pięć stypizowanych czynów nieuczciwej konkurencji."
+ },
+ {
+   "id": 195,
+   "pytanie": "195. Jako radca prawny proszę wyjaśnić klientowi, na czym polega czyn nieuczciwej konkurencji oraz podać przykłady zachowań, które – jako naruszenie dobrych obyczajów, a nie naruszenie przepisów prawa – są czynami/czynem nieuczciwej konkurencji. "
+ },
+ {
+   "id": 196,
+   "pytanie": "196. Proszę omówić zagadnienie „oznaczenia przedsiębiorstwa” w kontekście czynów nieuczciwej konkurencji. Czy istnieje środek prawny pozwalający na sądowe wprowadzenie zmian do oznaczenia przedsiębiorstwa? Jakie żądanie pozwu zaproponowałby Pan/Pani w takiej sytuacji?"
+ },
+ {
+   "id": 197,
+   "pytanie": "197. Proszę omówić tajemnicę   przedsiębiorstwa i jej ochronę na gruncie ustawy o zwalczaniu nieuczciwej konkurencji. Proszę podać przykłady tajemnicy przedsiębiorstwa w odniesieniu do rynku produktów leczniczych, usług prawnych, usług przewozowych."
+ },
+ {
+   "id": 198,
+   "pytanie": "198. Proszę omówić skutki prawne rozpowszechniania nieprawdziwych lub wprowadzających w błąd wiadomości o przedsiębiorcy lub przedsiębiorstwie w kontekście ustawy o zwalczaniu nieuczciwej konkurencji. "
+ },
+ {
+   "id": 199,
+   "pytanie": "199. Proszę omówić czyn nieuczciwej konkurencji polegający na utrudnianiu dostępu do rynku innym przedsiębiorcom. Proszę wskazać, czy – a jeśli tak, to w oparciu o jaką kwalifikację (tzn. jako nadużycie pozycji dominującej lub niedozwolone porozumienie antykonkurencyjne) – takie działanie może być przedmiotem zawiadomienia do UOKIK. "
+ },
+ {
+   "id": 200,
+   "pytanie": "200. Proszę omówić czyny nieuczciwej konkurencji w zakresie reklamy oraz podać co najmniej ich trzy przykłady. Proszę ponadto wskazać cechy reklamy porównawczej."
+ },
+ {
+   "id": 201,
+   "pytanie": "201. Proszę omówić sprzedaż połączoną z przyznaniem premii oraz sprzedaż lawinową - jako czyny nieuczciwej konkurencji w rozumieniu ustawy o zwalczaniu nieuczciwej konkurencji. Czy premie połączone ze sprzedażą są dozwolone, a jeśli tak, to kiedy? "
+ },
+ {
+   "id": 202,
+   "pytanie": "202. Jako radca prawny proszę wyjaśnić klientowi zasady odpowiedzialności cywilnoprawnej za czyny nieuczciwej konkurencji - w świetle ustawy o zwalczaniu nieuczciwej konkurencji, w tym wskazać termin przedawnienia roszczeń z tego tytułu. Proszę zaproponować treść żądania pozwu, którego celem jest uzyskanie od pozwanego oświadczenia o odpowiedniej treści i formie, w sytuacji popełnienia na szkodę klienta czynu nieuczciwej konkurencji w postaci rozpowszechniania nieprawdziwych informacji o przedsiębiorstwie Klienta."
+ },
+ {
+   "id": 203,
+   "pytanie": "203. Proszę scharakteryzować czyny nieuczciwej konkurencji podlegające odpowiedzialności karnej na podstawie ustawy o zwalczaniu nieuczciwej konkurencji, a także wskazać rodzaje sankcji przewidzianych w tym zakresie."
+ },
+ {
+   "id": 204,
+   "pytanie": "204. Na czym polega ochrona towaru lub usługi ze względu na pochodzenie z określonego regionu lub miejsca? Proszę udzielić porady prawnej przedsiębiorcy A w następującym stanie faktycznym: „Przedsiębiorca A wprowadza do obrotu na terytorium Polski towar chroniony ze względu na pochodzenie we Francji. Po kilku latach obecności na rynku przedsiębiorca A uzyskuje wiedzę, że konkurent przedsiębiorca B również wprowadza podobny towar wykorzystując chronione oznaczenia produktu. Po sprawdzeniu okazuje się, że towar jest polską podróbką towaru francuskiego, a francuski producent nie zezwolił przedsiębiorcy B na sprzedaż produktu oryginalnego w Polsce.”."
+ },
+ {
+   "id": 205,
+   "pytanie": "205. Proszę omówić czyny nieuczciwej konkurencji, które mogą być dokonane przez wierzyciela i biuro informacji gospodarczej w związku z przekazaniem informacji gospodarczej do biura informacji gospodarczej na gruncie ustawy z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych."
+ },
+ {
+   "id": 206,
+   "pytanie": "206. Proszę omówić pojęcie dostaw oraz usług robót budowlanych, o których mowa w ustawie Prawo zamówień publicznych oraz podać przykłady obrazujące wymienione kategorie przedmiotów zamówienia publicznego. "
+ },
+ {
+   "id": 207,
+   "pytanie": "207. Proszę omówić pojęcie cyklu życia, o którym mowa w ustawie Prawo zamówień publicznych."
+ },
+ {
+   "id": 208,
+   "pytanie": "208. Proszę podać okres związania wykonawcy złożoną przez niego ofertą oraz możliwości i zasady przedłużenia tego okresu, zgodnie z ustawą Prawo zamówień publicznych. Jeżeli termin składania ofert wyznaczono na dzień 1 marca, to kiedy on upłynie, w sytuacji gdy Zamawiający ustalił w SIWZ termin związania ofertą na 60 dni, a tym samym - do kiedy powinna być ważna gwarancja bankowa stanowiąca wadium w tym postępowaniu? "
+ },
+ {
+   "id": 209,
+   "pytanie": "209. Czy po otwarciu ofert, wykonawca, który się rozmyślił, może wycofać swoją ofertę? Czy może bez konsekwencji odmówić zawarcia umowy, jeżeli jego oferta zostanie wybrana?  Jak powinien zachować się zamawiający, jeżeli wybrany wykonawca odmówi zawarcia umowy?"
+ },
+ {
+   "id": 210,
+   "pytanie": "210. Proszę wymienić i omówić pozytywne przesłanki stosowania ustawy - Prawo zamówień publicznych. W jakim zakresie ustawa Prawo zamówień publicznych znajduje zastosowanie do usług społecznych. Proszę podać przykład takich usług."
+ },
+ {
+   "id": 211,
+   "pytanie": "211. Proszę wymienić i omówić najczęściej występujące w praktyce wyłączenia stosowania ustawy Prawo zamówień publicznych. Proszę wskazać, czy gmina X będzie zobowiązana do zastosowania ustawy Prawo zamówień publicznych, jeżeli przedmiotem zamówienia będzie najem lokalu mającego stanowić siedzibę urzędu gminy. Czy umowa może być zawarta na czas nieokreślony? "
+ },
+ {
+   "id": 212,
+   "pytanie": "212. Proszę wskazać, na jakich zasadach odbywa się udzielanie zamówień na usługi prawne zgodnie z ustawą Prawo zamówień publicznych. Jakie usługi prawne nie podlegają przepisom ustawy?"
+ },
+ {
+   "id": 213,
+   "pytanie": "213. Proszę wskazać zasady udzielania zamówień publicznych oraz szerzej omówić zasadę jawności na podstawie przetargu nieograniczonego. "
+ },
+ {
+   "id": 214,
+   "pytanie": "214. Klient, jednostka sektora finansów publicznych chce ogłosić przetarg zgodnie z ustawą – Prawo zamówień publicznych. Proszę udzielić porady, czy może komunikować się z wykonawcami w tradycyjnej formie pisemnej? "
+ },
+ {
+   "id": 215,
+   "pytanie": "215. Proszę podać zasady publikacji ogłoszeń, o których mowa w ustawie Prawo zamówień publicznych oraz tryb ich ewentualnej modyfikacji w zależności od trybu i wartości zamówienia. "
+ },
+ {
+   "id": 216,
+   "pytanie": "216. Proszę wskazać, w jakich przypadkach oferta wykonawcy może zostać zmieniona przez samego wykonawcę, a kiedy może zostać poprawiona przez zamawiającego. Proszę udzielić zamawiającemu porady prawnej co do dalszego postępowania w następującym stanie faktycznym: „Dnia 3 kwietnia upływał termin składania ofert. W tym samym dniu dokonano otwarcia ofert. Wykonawca złożył u zamawiającego ofertę 2 kwietnia. Jednocześnie wysłał za pośrednictwem poczty pismo do zamawiającego, informując, że cofa ofertę. Pismo doszło do zamawiającego w dniu 4 kwietnia”."
+ },
+ {
+   "id": 217,
+   "pytanie": "217. Zamawiający – jednostka sektora finansów publicznych zwrócił się do radcy prawnego z pytaniem, czy musi wykluczyć z postępowania wykonawcę będącego osobą fizyczną, który był karany. Proszę udzielić porady prawnej Zamawiającemu, w jakich przypadkach wykonawca karany podlega wykluczeniu oraz jakie są możliwości obrony wykonawcy przed wykluczeniem (tzw. samooczyszczenia). "
+ },
+ {
+   "id": 218,
+   "pytanie": "218. Proszę omówić trzy fakultatywne przesłanki wykluczenia wykonawcy z postępowania oraz wyjaśnić procedurę tzw. samooczyszczenia, uregulowaną w art. 24 ust. 8 ustawy Prawo zamówień publicznych."
+ },
+ {
+   "id": 219,
+   "pytanie": "219. Jednolity Europejski Dokument Zamówienia (JEDZ) – w jakich sytuacjach, zgodnie z ustawą Prawo zamówień publicznych, wykonawca ma obowiązek złożyć ten dokument. Proszę wskazać termin złożenia tego dokumentu oraz cel jego składania. Proszę wyjaśnić, jakie czynności powinien wykonać zamawiający, gdy stwierdzi, że JEDZ nie został złożony zgodnie z ustawą Prawo zamówień publicznych lub zawiera błędy. "
+ },
+ {
+   "id": 220,
+   "pytanie": "220. W jaki sposób, zgodnie z ustawą Prawo zamówień publicznych, zamawiający dokonuje opisu przedmiotu zamówienia? Czy opis przedmiotu zamówienia, którego przedmiotem jest komputer dla obsługi biurowej zamawiającego, może brzmieć następująco – \"przedmiotem zamówienia jest zakup komputera HP\"? "
+ },
+ {
+   "id": 221,
+   "pytanie": "221. Kiedy stosownie do ustawy Prawo zamówień publicznych zamawiający może przeprowadzić dialog techniczny i aukcję elektroniczną. Czy dialog techniczny i aukcja elektroniczna to tryby udzielenia zamówienia? "
+ },
+ {
+   "id": 222,
+   "pytanie": "222. Proszę, na podstawie ustawy Prawo zamówień publicznych, omówić sposób ustalania wartości zamówienia i znaczenie wartości zamówienia w zakresie wyboru trybu, sposobu publikacji ogłoszeń, terminu związania ofertą oraz terminów zastosowania środków ochrony prawnej. Jak obliczyć wartość zamówienia, gdy przedmiotem zamówienia jest udzielenie gminie X kredytu, przy uwzględnieniu, że: okres kredytowania wynosi 4 lata, kwota kredytu w granicach upoważnień zawartych w uchwale budżetowej, kiedy kwota kredytu wynosi 20 mln, a zamawiający na pewno wykorzysta pierwszą transzę w wysokości 5 mln zł?"
+ },
+ {
+   "id": 223,
+   "pytanie": "223. Proszę omówić treść specyfikacji istotnych warunków zamówienia, o której mowa w ustawie Prawo zamówień publicznych – jakie elementy musi zawierać, i jaka jest jej funkcja w udzieleniu zamówienia publicznego. "
+ },
+ {
+   "id": 224,
+   "pytanie": "224. Na jakich zasadach, określonych w ustawie Prawo zamówień publicznych, wykonawca może powierzyć wykonanie części zamówienia podwykonawcy?"
+ },
+ {
+   "id": 225,
+   "pytanie": "225. Proszę omówić przetarg nieograniczony jako tryb udzielania zamówień publicznych na podstawie ustawy Prawo zamówień publicznych.  Czy dopuszczalne jest w tym trybie dokonanie wyboru radcy prawnego, z którym zostanie zawarta umowa cywilnoprawna o świadczeniu bieżącej obsługi prawnej na rok. Łączne wynagrodzenie określone w umowie przekroczy równowartość 30 tys. euro."
+ },
+ {
+   "id": 226,
+   "pytanie": "226. Proszę wyjaśnić klientowi, kiedy może zastosować tryb partnerstwa innowacyjnego, o którym mowa w ustawie Prawo zamówień publicznych."
+ },
+ {
+   "id": 227,
+   "pytanie": "227. Proszę scharakteryzować tzw. procedurę odwróconą (art. 24aa Prawa zamówień publicznych). Jako radca prawny proszę wyjaśnić klientowi, kiedy procedura ta może być zastosowana."
+ },
+ {
+   "id": 228,
+   "pytanie": "228. Proszę omówić przetarg ograniczony jako tryb udzielania zamówień publicznych na podstawie ustawy Prawo zamówień publicznych. Czy dopuszczalne jest udzielenie zamówienia w trybie przetargu ograniczonego na dostawę energii elektrycznej? "
+ },
+ {
+   "id": 229,
+   "pytanie": "229. Proszę omówić różnice między negocjacjami z ogłoszeniem, a dialogiem konkurencyjnym w świetle w ustawy Prawo zamówień publicznych. Czy dopuszczalne byłoby udzielenie zamówienia w trybie negocjacji z ogłoszeniem (wartość zamówienia powyżej tzw. progów unijnych), gdy w postępowaniu prowadzonym uprzednio w trybie dialogu konkurencyjnego wszystkie oferty odrzucono z powodu rażąco niskiej ceny, a zamawiający w nowym postępowaniu nie zmienił pierwotnych warunków zamówienia w sposób istotny?"
+ },
+ {
+   "id": 230,
+   "pytanie": "230. Kiedy - w trybie ustawy Prawo zamówień publicznych - można zastosować negocjacje z ogłoszeniem, a kiedy negocjacje bez ogłoszenia? Czy dopuszczalne byłoby udzielenie zamówienia w trybie negocjacji bez ogłoszenia (wartość zamówienia powyżej tzw. progów unijnych), gdy w postępowaniu prowadzonym uprzednio w trybie przetargu ograniczonego wszystkie oferty odrzucono z powodu rażąco niskiej ceny, a zamawiający w nowym postępowaniu nie zmienił pierwotnych warunków zamówienia w sposób istotny?"
+ },
+ {
+   "id": 231,
+   "pytanie": "231. Proszę omówić tryb udzielenia zamówienia z wolnej ręki, o którym mowa w ustawie Prawo zamówień publicznych. Proszę podać przykłady zamówień (stanów faktycznych), które uzasadniałyby zastosowanie tego trybu. "
+ },
+ {
+   "id": 232,
+   "pytanie": "232. Instytucja wadium w świetle w ustawy Prawo zamówień publicznych. Czy zamawiający uprawniony jest, aby wymagać w SIWZ od wykonawców wniesienia wadium w formie gwarancji bankowej lub ubezpieczeniowej? Proszę ocenić sytuację: zamawiający wykluczył z postępowania wykonawcę, który nie wniósł wadium. Czy postąpił prawidłowo?"
+ },
+ {
+   "id": 233,
+   "pytanie": "233. Proszę omówić przesłanki odrzucenia oferty na podstawie ustawy Prawo zamówień publicznych. "
+ },
+ {
+   "id": 234,
+   "pytanie": "234. Proszę omówić tryb postępowania zamawiającego w przypadku stwierdzenia podejrzenia, że oferta zawiera rażąco niską cenę w stosunku do przedmiotu zamówienia. Proszę wskazać rozłożenie ciężaru dowodu oraz konsekwencje stwierdzenia rażąco niskiej ceny."
+ },
+ {
+   "id": 235,
+   "pytanie": "235. Proszę omówić obligatoryjne i fakultatywne przesłanki unieważnienia przez zamawiającego postępowania o udzielenia zamówienia publicznego.  Czy w przypadku podzielenia zamówienia na części zamawiający zobowiązany jest unieważnić postępowanie na wszystkie części?"
+ },
+ {
+   "id": 236,
+   "pytanie": "236. Konkurs w świetle ustawy Prawo zamówień publicznych. Proszę podać przykłady, kiedy zastosowanie konkursu jest dopuszczalne. Czy można przeprowadzić konkurs, którego przedmiotem będzie zaprojektowanie stroju służbowego dla pracowników urzędu gminy? "
+ },
+ {
+   "id": 237,
+   "pytanie": "237. Jawność dokumentów oraz zasady udostępniania umów w świetle ustawy Prawo zamówień publicznych. Co powinien zrobić zamawiający, gdy termin składania ofert w postępowaniu prowadzonym w trybie przetargu ograniczonego upływa 10 maja, a 5 maja jeden z wykonawców zawnioskował o podanie wartości szacunkowej zamówienia?"
+ },
+ {
+   "id": 238,
+   "pytanie": "238. Jako radca prawny proszę wyjaśnić klientowi problematykę unieważniania umów o zamówienie publiczne w trybie ustawy Prawo zamówień publicznych."
+ },
+ {
+   "id": 239,
+   "pytanie": "239. Jako radca prawny proszę wyjaśnić klientowi, czy możliwa jest zmiana umowy o zamówienie publiczne, oraz kiedy możliwe jest odstąpienie od umowy w trybie ustawy Prawo zamówień publicznych."
+ },
+ {
+   "id": 240,
+   "pytanie": "240. Zabezpieczenie należytego wykonania umowy w świetle ustawy Prawo zamówień publicznych. Czy w postępowaniu prowadzonym w trybie przetargu nieograniczonego na dostawę samochodów służbowych o wartości zamówienia 1 mln zł postanowienie SIWZ ustalające, iż zabezpieczenie należytego wykonania umowy wynosi 100 tys. zł jest prawidłowe? Czy w przypadku wzrostu wynagrodzenia umownego zwiększeniu podlega także kwota zabezpieczenia należytego wykonania umowy?"
+ },
+ {
+   "id": 241,
+   "pytanie": "241. Jakie podmioty mogą korzystać ze środków ochrony prawnej przewidzianych w ustawie Prawo zamówień publicznych? Proszę omówić przesłanki, tryb i terminy wnoszenia odwołania w świetle ustawy Prawo zamówień publicznych. Proszę ocenić, czy uprawnione jest wniesienie odwołania w postępowaniu o wartości niższej od równowartości 30 tys. Euro."
+ },
+ {
+   "id": 242,
+   "pytanie": "242. Jako radca prawny proszę wyjaśnić klientowi tryb postępowania przed Krajową Izbę Odwoławczą oraz rozstrzygnięcia, jakie mogą zapaść w wyniku rozpatrzenia odwołania. W szczególności proszę wyjaśnić, kto może uczestniczyć w postępowaniu odwoławczym, kto może wnieść sprzeciw, kto opozycję i w jakim terminie. "
+ },
+ {
+   "id": 243,
+   "pytanie": "243. Skarga do sądu w świetle ustawy Prawo zamówień publicznych (terminy, podmioty uprawnione do wniesienia skargi, wysokość opłaty sądowej). Proszę przedstawić opinię prawną, zmierzającą do udzielenia odpowiedzi na pytanie, czy zamawiający był uprawniony do zawarcia umowy w następującym stanie faktycznym: „Zamawiający niezwłocznie po wydaniu przez Krajową Izbę Odwoławczą wyroku oddalającego odwołanie dotyczące prawidłowości wyboru oferty najkorzystniejszej zawarł umowę z wybranym wykonawcą. Odwołujący wniósł skargę na orzeczenie KIO.”"
+ },
+ {
+   "id": 244,
+   "pytanie": "244. Proszę wyjaśnić Klientowi czym zajmuje się Rzecznik Małych i Średnich Przedsiębiorców, a w szczególności, kto i w jakich sprawach może go prosić o interwencję. "
+ },
+ {
+   "id": 245,
+   "pytanie": "245. Proszę przedstawić klientowi informację na temat zasad tworzenia oddziałów na terytorium Rzeczypospolitej Polskiej przez przedsiębiorców zagranicznych z państw członkowskich UE."
+ },
+ {
+   "id": 246,
+   "pytanie": "246. Do radcy prawnego zgłosił się przedsiębiorca, prowadzący jednoosobowo działalność gospodarczą, który chciałby podjąć kroki zabezpieczające sprawne funkcjonowanie przedsiębiorstwa na wypadek jego śmierci. Proszę udzielić klientowi porady, wskazując w szczególności jak powołać zarządcę sukcesyjnego oraz kto może nim być. "
+ },
+ {
+   "id": 247,
+   "pytanie": "247. Do radcy prawnego zgłosił się klient, któremu złożono propozycję pełnienia funkcji zarządcy sukcesyjnego. Klient, zanim się zgodzi, chce wiedzieć, na czym polega wykonywanie zarządu sukcesyjnego. Proszę udzielić mu porady w tym zakresie."
+ },
+ {
+   "id": 248,
+   "pytanie": "248. Do radcy prawnego zgłosiła się wdowa po zmarłym tydzień wcześniej przedsiębiorcy, wpisanym do CEIDG. Przedsiębiorca ten zatrudniał pracowników i posiadał niezrealizowane kontrakty. Małżonkowie posiadali dwoje dzieci, które aktualnie przebywają za granicą, a zmarły mąż nie pozostawił testamentu. Proszę udzielić klientce porady prawnej, czy i w jaki sposób może zapewnić dalsze funkcjonowanie przedsiębiorstwa do czasu ustalenia z dziećmi jego dalszego losu. "
+ }
+]
+}

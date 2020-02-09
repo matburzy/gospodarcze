@@ -58,9 +58,9 @@ W razie pytań, proszę kontaktować się z Google AdMob. Firma zbiera dane na p
 Polityka prywatności AdMob jest dostępna pod adresem: https://policies.google.com/privacy <br>
 W programie wykorzystano ikony ze strony flaticon.com autorstwa: turkkub, Eucalyp, Freepik.
              <i class="customicon-copyright"></i> Autor: Mateusz Burzyński. Jeżeli zauważysz błąd, skontaktuj się ze mną pod adresem: matburzy@gmail.com.<br><br> Autorem pytań egzaminacyjnych na kolokwia ustne jest Krajowa Izba Radców Prawnych.<br> Źródłem aktów prawnych dostępnych w programie jest Internetowy System Aktów Prawnych (ISAP).<br> Wersja aplikacji 1.0.4.<br><br>
-			Zmiany w stosunku do wersji 1.0.4:<br>
+			Zmiany w stosunku do wersji 1.0.5 (09.02.2020 r.):<br>
 			- aplikacja od maja 2019 roku jest całkowicie darmowa, z reklamami,<br>
-    - dodano pytania z 2019 roku</div>
+    - dodano pytania z 2020 roku</div>
           </div>
         </div>
       </div>
@@ -120,7 +120,7 @@ $('#los3').removeClass();
               </a>
             </div>
 
-            <div class="title sliding"><i class="customicon-studying"></i> Gospodarcze - Pytania</div>
+            <div class="title sliding"><i class="customicon-studying"></i> Gospodarcze - Pytania (2020)</div>
 
           </div>
         </div>
@@ -130,11 +130,11 @@ $('#los3').removeClass();
 function showall() {
 $("#mytable").html("");
 $.getJSON(
-  "gospodarcze2019.json",
+  "gospodarcze2020.json",
   function(data) {
     var tbl=$("<table/>").attr("id","mytable");
     $("#mytable").append(tbl);
-    for(var i=0;i<246;i++)
+    for(var i=0;i<248;i++)
     {
         var tr="<tr>";
         var td1="<td><div class=\"card\"><div class=\"card-header\"><i class=\"f7-icons\">book</i> Pytanie nr "+data.gospodarcze2019[i].id+"</div><div class=\"card-content card-content-padding\">"+data.gospodarcze2019[i].pytanie+"</div></div></td>";
@@ -148,15 +148,15 @@ function losuj() {
   var ladowanie = '<i class="fa fa-spinner"></i> Ładowanie danych...';
 
 $.getJSON(
-  "gospodarcze2019.json",
+  "gospodarcze2020.json",
   function(data) {
     // Success! Do stuff with data.
 
 
 
-	var pytanie1 = Math.floor(Math.random() * (246 - 1)) + 1;
-	var pytanie2 = Math.floor(Math.random() * (246 - 1)) + 1;
-	var pytanie3 = Math.floor(Math.random() * (246 - 1)) + 1;
+	var pytanie1 = Math.floor(Math.random() * (248 - 1)) + 1;
+	var pytanie2 = Math.floor(Math.random() * (248 - 1)) + 1;
+	var pytanie3 = Math.floor(Math.random() * (248 - 1)) + 1;
 	var los1 = data.gospodarcze2019[pytanie1].pytanie;
 document.getElementById("los1").innerHTML = los1;
 	var los2 = data.gospodarcze2019[pytanie2].pytanie;
@@ -174,13 +174,13 @@ function zwrockrs() {
   var ladowanie = '<i class="fa fa-spinner"></i> Ładowanie danych...';
   document.getElementById("trescpytania").innerHTML = ladowanie;
 $.getJSON(
-  "gospodarcze2019.json",
+  "gospodarcze2020.json",
   function(data) {
     // Success! Do stuff with data.
 	console.log(data);
 	var wpisanynumerwalidacja = Number(document.getElementById("input").value);
-	if (wpisanynumerwalidacja < 0 || wpisanynumerwalidacja == 0 || wpisanynumerwalidacja > 246) {
-	document.getElementById("trescpytania").innerHTML = "<p style=\"color:red;\">Wpisz właściwy numer pytania w zakresie 1-246.</p>";
+	if (wpisanynumerwalidacja < 0 || wpisanynumerwalidacja == 0 || wpisanynumerwalidacja > 248) {
+	document.getElementById("trescpytania").innerHTML = "<p style=\"color:red;\">Wpisz właściwy numer pytania w zakresie 1-248.</p>";
 	} else {
 	var wpisanynumer = Number(document.getElementById("input").value) - 1;
 	var trescpytania = data.gospodarcze2019[wpisanynumer].pytanie;
